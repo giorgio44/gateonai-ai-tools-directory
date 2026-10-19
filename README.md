@@ -1,553 +1,553 @@
 # Awesome AI Tools (auto-updated)
 
-An **auto-updated** list of AI tools — top-scored per category, pulled live from [GateOnAI](https://www.gateonai.com), an independent, privacy-first AI tools directory tracking **2,870 tools** with a real, algorithmic scoring methodology (not sponsored placement).
+An **auto-updated** list of AI tools — top-scored per category, pulled live from [GateOnAI](https://www.gateonai.com), an independent, privacy-first AI tools directory tracking **2,907 tools** with a real, algorithmic scoring methodology (not sponsored placement).
 
 Full catalog, live search, and an IO-Compatibility Graph (computed tool-to-tool connections) at **[gateonai.com](https://www.gateonai.com)**.
 
-_Last updated: 2026-10-16 (auto-generated, weekly)_
+_Last updated: 2026-10-19 (auto-generated, weekly)_
 
 ## Table of Contents
 
-- [AI Agents](#ai-agents) (79)
+- [AI Agents](#ai-agents) (80)
 - [Architecture](#architecture) (39)
-- [Audio & Music](#audio-music) (77)
+- [Audio & Music](#audio-music) (79)
 - [Avatar & Synthetic Media](#avatar-synthetic-media) (39)
 - [Beauty](#beauty) (29)
-- [Chatbots](#chatbots) (52)
+- [Chatbots](#chatbots) (54)
 - [Construction](#construction) (15)
-- [Crypto/Web3](#crypto/web3) (40)
+- [Crypto/Web3](#crypto/web3) (41)
 - [Customer Support](#customer-support) (78)
-- [Cybersecurity](#cybersecurity) (49)
-- [Data Analysis](#data-analysis) (83)
-- [Design](#design) (70)
-- [Development](#development) (230)
-- [Document Processing](#document-processing) (53)
+- [Cybersecurity](#cybersecurity) (52)
+- [Data Analysis](#data-analysis) (86)
+- [Design](#design) (72)
+- [Development](#development) (233)
+- [Document Processing](#document-processing) (52)
 - [E-commerce](#e-commerce) (61)
-- [Education](#education) (100)
+- [Education](#education) (101)
 - [Email AI](#email-ai) (60)
 - [Energy](#energy) (28)
-- [Environment](#environment) (43)
+- [Environment](#environment) (42)
 - [Fashion](#fashion) (41)
-- [Finance](#finance) (105)
+- [Finance](#finance) (106)
 - [Gaming & 3D](#gaming-3d) (39)
 - [HR & Recruiting](#hr-recruiting) (64)
 - [Healthcare](#healthcare) (86)
-- [Image Generation](#image-generation) (110)
-- [Interior Design](#interior-design) (24)
+- [Image Generation](#image-generation) (111)
+- [Interior Design](#interior-design) (25)
 - [Legal AI](#legal-ai) (42)
 - [Lifestyle](#lifestyle) (42)
 - [Logistics](#logistics) (51)
 - [Marketing](#marketing) (179)
-- [Meeting & Transcription](#meeting-transcription) (47)
+- [Meeting & Transcription](#meeting-transcription) (48)
 - [No-Code AI](#no-code-ai) (53)
 - [Presentation AI](#presentation-ai) (36)
-- [Productivity](#productivity) (128)
+- [Productivity](#productivity) (133)
 - [Real Estate](#real-estate) (40)
-- [Research AI](#research-ai) (57)
+- [Research AI](#research-ai) (60)
 - [Robotics](#robotics) (17)
 - [Sales AI](#sales-ai) (65)
 - [Science](#science) (41)
 - [Search](#search) (43)
-- [Social Media](#social-media) (42)
-- [Translation](#translation) (38)
-- [Video Creation](#video-creation) (87)
+- [Social Media](#social-media) (43)
+- [Translation](#translation) (39)
+- [Video Creation](#video-creation) (93)
 - [Website Builder AI](#website-builder-ai) (48)
-- [Writing Assistant](#writing-assistant) (120)
+- [Writing Assistant](#writing-assistant) (121)
 
 ## AI Agents
 
-- **[Dialogflow](https://www.gateonai.com/tools/dialogflow)** — Google AI natural language understanding for agents `freemium` `score: 73/100`
-- **[Beam AI Pro](https://www.gateonai.com/tools/beam-ai-pro)** — AI agentic process automation for enterprises `freemium` `score: 68/100`
-- **[Vertex AI Agents](https://www.gateonai.com/tools/vertex-ai-agents)** — Google Cloud AI agent development platform `freemium` `score: 67/100`
-- **[AutoGPT](https://www.gateonai.com/tools/autogpt)** — Open-source autonomous AI agent platform `freemium` `score: 67/100`
-- **[Coze](https://www.gateonai.com/tools/coze)** — AI bot development platform by ByteDance `freemium` `score: 67/100`
-- **[CrewAI](https://www.gateonai.com/tools/crewai)** — Multi-agent AI framework for collaborative tasks `freemium` `score: 67/100`
-- **[Flowise](https://www.gateonai.com/tools/flowise)** — Open-source low-code platform for AI agent workflows `freemium` `score: 67/100`
-- **[Tidio Lyro](https://www.gateonai.com/tools/tidio-lyro)** — AI agent for e-commerce customer automation `freemium` `score: 67/100`
+- **[MetaGPT](https://www.gateonai.com/tools/metagpt)** — AI software company simulation `free` `score: 73/100`
+- **[Free Desktop OrcaBot](https://www.gateonai.com/tools/free-desktop-orcabot)** — Securely orchestrate AI tools locally with a sandboxed virtual machine. `free` `score: 71/100`
+- **[Dialogflow](https://www.gateonai.com/tools/dialogflow)** — Google AI natural language understanding for agents `freemium` `score: 68/100`
+- **[Beam AI Pro](https://www.gateonai.com/tools/beam-ai-pro)** — AI agentic process automation for enterprises `freemium` `score: 67/100`
+- **[swarmsay](https://www.gateonai.com/tools/swarmsay)** — A public message board and post office for AI agents to communicate. `free` `score: 67/100`
+- **[Recalld](https://www.gateonai.com/tools/recalld)** — Memory layer for AI agents that stores and retrieves only relevant facts `free` `score: 67/100`
+- **[WebMCP Registry](https://www.gateonai.com/tools/webmcp-registry)** — Open index of websites that expose WebMCP tools for AI agents `free` `score: 67/100`
+- **[AX](https://www.gateonai.com/tools/ax)** — Local AI agent collaboration for pair programming `free` `score: 67/100`
 
 ## Architecture
 
-- **[ARCHITEChTURES](https://www.gateonai.com/tools/architechtures)** — AI architectural design and building generation `freemium` `score: 71/100`
-- **[Maket](https://www.gateonai.com/tools/maket)** — AI tool for generating residential floor plan options. `freemium` `score: 71/100`
-- **[Veras](https://www.gateonai.com/tools/veras)** — AI rendering for Revit, Rhino, and SketchUp. `freemium` `score: 67/100`
-- **[Snaptrude](https://www.gateonai.com/tools/snaptrude)** — AI collaborative 3D building design platform `freemium` `score: 67/100`
-- **[Digital Blue Foam](https://www.gateonai.com/tools/digital-blue-foam)** — AI software for sustainable urban design and planning. `freemium` `score: 66/100`
-- **[Archistar AI](https://www.gateonai.com/tools/archistar-ai)** — AI property intelligence and design automation `freemium` `score: 64/100`
-- **[Spot AI Vision](https://www.gateonai.com/tools/spot-ai-vision)** — AI video analytics for construction safety `freemium` `score: 64/100`
-- **[TestFit Pro](https://www.gateonai.com/tools/testfit-pro)** — AI rapid site feasibility for developers `freemium` `score: 64/100`
+- **[Maket](https://www.gateonai.com/tools/maket)** — AI tool for generating residential floor plan options. `freemium` `score: 67/100`
+- **[ARCHITEChTURES](https://www.gateonai.com/tools/architechtures)** — AI architectural design and building generation `freemium` `score: 67/100`
+- **[Veras](https://www.gateonai.com/tools/veras)** — AI rendering for Revit, Rhino, and SketchUp. `freemium` `score: 62/100`
+- **[Digital Blue Foam](https://www.gateonai.com/tools/digital-blue-foam)** — AI software for sustainable urban design and planning. `freemium` `score: 62/100`
+- **[Cedreo](https://www.gateonai.com/tools/cedreo)** — 3D home design software with AI floor plan generation. `freemium` `score: 62/100`
+- **[Archistar AI](https://www.gateonai.com/tools/archistar-ai)** — AI property intelligence and design automation `freemium` `score: 62/100`
+- **[Snaptrude](https://www.gateonai.com/tools/snaptrude)** — AI collaborative 3D building design platform `freemium` `score: 62/100`
+- **[Spot AI Vision](https://www.gateonai.com/tools/spot-ai-vision)** — AI video analytics for construction safety `freemium` `score: 62/100`
 
 ## Audio & Music
 
 - **[ElevenLabs](https://www.gateonai.com/tools/elevenlabs)** — Advanced AI voice cloning and synthesis. `freemium` `score: 81/100`
-- **[Podcastle](https://www.gateonai.com/tools/podcastle)** — AI-powered studio for podcast recording and editing. `freemium` `score: 70/100`
-- **[Beatoven.ai](https://www.gateonai.com/tools/beatovenai)** — Create royalty-free AI music for videos and podcasts. `freemium` `score: 70/100`
-- **[AIVA](https://www.gateonai.com/tools/aiva)** — AI composer for creating emotional soundtracks. `freemium` `score: 68/100`
-- **[Udio](https://www.gateonai.com/tools/udio)** — Advanced AI for creating full-length music tracks. `freemium` `score: 68/100`
-- **[Mubert](https://www.gateonai.com/tools/mubert)** — AI-generated royalty-free music for creators. `freemium` `score: 67/100`
-- **[Hume AI](https://www.gateonai.com/tools/hume-ai)** — AI voice platform with emotion understanding `freemium` `score: 67/100`
-- **[Voicemod](https://www.gateonai.com/tools/voicemod)** — Real-time AI voice changer for gaming and streaming `freemium` `score: 67/100`
+- **[Bark](https://www.gateonai.com/tools/bark-ai)** — AI text-to-audio model `free` `score: 75/100`
+- **[AudioCraft](https://www.gateonai.com/tools/audiocraft)** — Meta AI music and audio generation `free` `score: 71/100`
+- **[Audacity AI](https://www.gateonai.com/tools/audacity-ai)** — AI audio editor and recorder `free` `score: 71/100`
+- **[Podcastle](https://www.gateonai.com/tools/podcastle)** — AI-powered studio for podcast recording and editing. `freemium` `score: 68/100`
+- **[Beatoven.ai](https://www.gateonai.com/tools/beatovenai)** — Create royalty-free AI music for videos and podcasts. `freemium` `score: 68/100`
+- **[QuietTake](https://www.gateonai.com/tools/quiettake)** — Free browser-local speech noise removal with comparison playback and WAV export `free` `score: 67/100`
+- **[AIVA](https://www.gateonai.com/tools/aiva)** — AI composer for creating emotional soundtracks. `freemium` `score: 67/100`
 
 ## Avatar & Synthetic Media
 
-- **[DeepFaceLab](https://www.gateonai.com/tools/deepfacelab)** — Open-source AI face swap and deepfake tool `free` `score: 71/100`
-- **[D-ID Digital Humans](https://www.gateonai.com/tools/d-id-digital-humans)** — AI interactive digital human creation platform `freemium` `score: 67/100`
-- **[Elai Video](https://www.gateonai.com/tools/elai-video)** — AI video creator with customizable digital presenters `freemium` `score: 67/100`
-- **[Deepbrain AI](https://www.gateonai.com/tools/deepbrain-ai)** — AI video with photorealistic virtual humans `freemium` `score: 64/100`
-- **[MakeCode](https://www.gateonai.com/tools/makecode)** — AI-powered code generation `free` `score: 59/100`
-- **[GANbreeder](https://www.gateonai.com/tools/ganbreeder)** — Create and evolve original artwork `free` `score: 55/100`
-- **[Face Swap Live](https://www.gateonai.com/tools/face-swap-live)** — Real-time face swapping `free` `score: 55/100`
-- **[Stable Diffusion WebUI](https://www.gateonai.com/tools/stable-diffusion-webui)** — Text-to-image generation `free` `score: 53/100`
+- **[MakeCode](https://www.gateonai.com/tools/makecode)** — AI-powered code generation `free` `score: 68/100`
+- **[DeepFaceLab](https://www.gateonai.com/tools/deepfacelab)** — Open-source AI face swap and deepfake tool `free` `score: 67/100`
+- **[FaceSwapAI](https://www.gateonai.com/tools/faceswapai)** — Browser-based AI face swap for photos, videos, group shots, and GIFs. `freemium` `score: 65/100`
+- **[GANbreeder](https://www.gateonai.com/tools/ganbreeder)** — Create and evolve original artwork `free` `score: 63/100`
+- **[Face Swap Live](https://www.gateonai.com/tools/face-swap-live)** — Real-time face swapping `free` `score: 63/100`
+- **[D-ID Digital Humans](https://www.gateonai.com/tools/d-id-digital-humans)** — AI interactive digital human creation platform `freemium` `score: 62/100`
+- **[Prisma](https://www.gateonai.com/tools/prisma)** — Transform your photos into works of art `freemium` `score: 62/100`
+- **[Deepbrain AI](https://www.gateonai.com/tools/deepbrain-ai)** — AI video with photorealistic virtual humans `freemium` `score: 62/100`
 
 ## Beauty
 
-- **[Perfect Corp YouCam](https://www.gateonai.com/tools/perfect-corp-youcam)** — AI-powered virtual beauty try-on for makeup and skincare. `freemium` `score: 67/100`
-- **[Skinive](https://www.gateonai.com/tools/skinive)** — AI skin health analysis app for early detection. `freemium` `score: 67/100`
-- **[YouCam Makeup](https://www.gateonai.com/tools/youcam-makeup)** — Real-time AI makeup try-on for mobile and web. `freemium` `score: 67/100`
-- **[GlamAr](https://www.gateonai.com/tools/glamar)** — Specialized AI diagnostic software for skin health reports. `paid` `score: 67/100`
-- **[ModiFace AI](https://www.gateonai.com/tools/modiface-ai)** — AI augmented reality beauty by L'Oreal `freemium` `score: 63/100`
-- **[Revieve AI](https://www.gateonai.com/tools/revieve-ai)** — AI beauty personalization platform for retailers `freemium` `score: 63/100`
-- **[Haut AI](https://www.gateonai.com/tools/haut-ai)** — AI skin analysis for personalized skincare `freemium` `score: 63/100`
-- **[L'Oréal Makeup Genius](https://www.gateonai.com/tools/loreal-make-up-genius)** — Virtual try-on for makeup and hair `free` `score: 59/100`
+- **[L'Oréal Makeup Genius](https://www.gateonai.com/tools/loreal-make-up-genius)** — Virtual try-on for makeup and hair `free` `score: 68/100`
+- **[WinkBrowBar](https://www.gateonai.com/tools/winkbrowbar)** — Get the perfect brows with AI-powered tools `free` `score: 68/100`
+- **[LipSense](https://www.gateonai.com/tools/lipsense)** — Try on lip colors virtually `free` `score: 67/100`
+- **[BeautyMNL](https://www.gateonai.com/tools/beauty-mnl)** — Get personalized beauty and skincare recommendations `free` `score: 63/100`
+- **[GlamAr](https://www.gateonai.com/tools/glamar)** — Specialized AI diagnostic software for skin health reports. `paid` `score: 63/100`
+- **[ModiFace AI](https://www.gateonai.com/tools/modiface-ai)** — AI augmented reality beauty by L'Oreal `freemium` `score: 62/100`
+- **[Makeup Genius](https://www.gateonai.com/tools/makeup-genius)** — Try on makeup virtually `free` `score: 62/100`
+- **[YouCam Makeup](https://www.gateonai.com/tools/youcam-makeup)** — Real-time AI makeup try-on for mobile and web. `freemium` `score: 62/100`
 
 ## Chatbots
 
-- **[Claude](https://www.gateonai.com/tools/claude)** — Anthropic's AI focused on safety and long context. `freemium` `score: 84/100`
+- **[Claude](https://www.gateonai.com/tools/claude)** — Anthropic's AI focused on safety and long context. `freemium` `score: 83/100`
 - **[ChatGPT](https://www.gateonai.com/tools/chatgpt)** — Generative AI by OpenAI for conversation and coding. `freemium` `score: 78/100`
-- **[Character](https://www.gateonai.com/tools/characterai)** — AI characters for conversations and roleplay. `freemium` `score: 74/100`
-- **[HuggingChat](https://www.gateonai.com/tools/huggingchat)** — Free open-source AI chat by HuggingFace `free` `score: 73/100`
-- **[Pi](https://www.gateonai.com/tools/pi-ai)** — Inflection AI's personal assistant focused on EQ and support. `free` `score: 68/100`
-- **[Google Gemini](https://www.gateonai.com/tools/google-gemini)** — Google's most capable AI assistant for text, code and images. `freemium` `score: 68/100`
-- **[Meta AI](https://www.gateonai.com/tools/meta-ai)** — Meta's AI assistant available across Facebook, Instagram and WhatsApp. `free` `score: 68/100`
-- **[Poe](https://www.gateonai.com/tools/poe)** — Quora's platform to access multiple AI models in one place. `freemium` `score: 67/100`
+- **[Character](https://www.gateonai.com/tools/characterai)** — AI characters for conversations and roleplay. `freemium` `score: 73/100`
+- **[Qwen AI](https://www.gateonai.com/tools/qwen-ai)** — Alibaba AI assistant with multimodal support `free` `score: 70/100`
+- **[Falcon AI](https://www.gateonai.com/tools/falcon-ai)** — TII open-source AI language model `free` `score: 68/100`
+- **[Yi AI](https://www.gateonai.com/tools/yi-ai)** — 01.AI open-source large language model `free` `score: 68/100`
+- **[HuggingChat](https://www.gateonai.com/tools/huggingchat)** — Free open-source AI chat by HuggingFace `free` `score: 68/100`
+- **[Gemma AI](https://www.gateonai.com/tools/gemma-ai)** — Google open-source lightweight AI models `free` `score: 68/100`
 
 ## Construction
 
-- **[Autodesk Construction](https://www.gateonai.com/tools/autodesk-construction)** — AI construction project management by Autodesk `freemium` `score: 67/100`
-- **[Reconstruct AI](https://www.gateonai.com/tools/reconstruct-ai)** — AI construction progress monitoring with 360 cameras `freemium` `score: 64/100`
-- **[Procore AI Pro](https://www.gateonai.com/tools/procore-ai-pro)** — AI construction project management platform `freemium` `score: 64/100`
-- **[Togal.AI](https://www.gateonai.com/tools/togalai)** — AI-powered construction takeoff and estimating software. `paid` `score: 63/100`
-- **[Alice Technologies](https://www.gateonai.com/tools/alice-technologies)** — AI scheduling platform for large-scale construction. `paid` `score: 60/100`
-- **[Doxel](https://www.gateonai.com/tools/doxel)** — AI for predicting and preventing construction delays. `paid` `score: 60/100`
-- **[PlanGrid AI](https://www.gateonai.com/tools/plangrid-ai)** — AI construction document management platform `freemium` `score: 60/100`
-- **[Scaled Robotics](https://www.gateonai.com/tools/scaled-robotics)** — AI robotics for automated construction site monitoring. `paid` `score: 59/100`
+- **[Reconstruct AI](https://www.gateonai.com/tools/reconstruct-ai)** — AI construction progress monitoring with 360 cameras `freemium` `score: 62/100`
+- **[Autodesk Construction](https://www.gateonai.com/tools/autodesk-construction)** — AI construction project management by Autodesk `freemium` `score: 62/100`
+- **[Procore AI Pro](https://www.gateonai.com/tools/procore-ai-pro)** — AI construction project management platform `freemium` `score: 62/100`
+- **[Togal.AI](https://www.gateonai.com/tools/togalai)** — AI-powered construction takeoff and estimating software. `paid` `score: 59/100`
+- **[PlanGrid AI](https://www.gateonai.com/tools/plangrid-ai)** — AI construction document management platform `freemium` `score: 57/100`
+- **[Doxel](https://www.gateonai.com/tools/doxel)** — AI for predicting and preventing construction delays. `paid` `score: 56/100`
+- **[Alice Technologies](https://www.gateonai.com/tools/alice-technologies)** — AI scheduling platform for large-scale construction. `paid` `score: 54/100`
+- **[Dusty Robotics](https://www.gateonai.com/tools/dusty-robotics)** — AI-powered robots that layout building plans on-site. `paid` `score: 54/100`
 
 ## Crypto/Web3
 
-- **[Fetch.ai](https://www.gateonai.com/tools/fetchai)** — Decentralized machine learning network for autonomous agents. `freemium` `score: 67/100`
-- **[SingularityNET](https://www.gateonai.com/tools/singularitynet)** — Decentralized AI marketplace on the blockchain. `freemium` `score: 67/100`
-- **[DeFiLlama AI](https://www.gateonai.com/tools/defillama-ai)** — Open-source DeFi analytics with AI-powered insights. `free` `score: 67/100`
-- **[Nansen AI](https://www.gateonai.com/tools/nansen-ai)** — AI blockchain analytics and on-chain intelligence `freemium` `score: 64/100`
-- **[Santiment Pro](https://www.gateonai.com/tools/santiment-pro)** — AI crypto on-chain and social analytics `freemium` `score: 63/100`
-- **[Moralis](https://www.gateonai.com/tools/moralis)** — Web3 development platform with AI-powered APIs. `freemium` `score: 63/100`
-- **[Dune Analytics](https://www.gateonai.com/tools/dune-analytics)** — AI-powered blockchain data analytics platform `freemium` `score: 63/100`
-- **[Glassnode Pro](https://www.gateonai.com/tools/glassnode-pro)** — AI on-chain market analytics for Bitcoin `freemium` `score: 63/100`
+- **[Rainbow Wallet](https://www.gateonai.com/tools/rainbow-wallet)** — AI Ethereum wallet app `free` `score: 67/100`
+- **[Zerion](https://www.gateonai.com/tools/zerion)** — AI crypto wallet and DeFi portfolio `free` `score: 67/100`
+- **[Aave Analytics](https://www.gateonai.com/tools/aave-analytics)** — AI DeFi lending protocol `free` `score: 67/100`
+- **[1inch AI](https://www.gateonai.com/tools/1inch-ai)** — AI DeFi aggregator platform `free` `score: 67/100`
+- **[L2Beat](https://www.gateonai.com/tools/l2beat)** — AI L2 analytics platform `free` `score: 67/100`
+- **[Phantom Wallet](https://www.gateonai.com/tools/phantom-wallet)** — AI crypto wallet for Solana `free` `score: 67/100`
+- **[DeFiLlama AI](https://www.gateonai.com/tools/defillama-ai)** — Open-source DeFi analytics with AI-powered insights. `free` `score: 63/100`
+- **[CoinGecko AI](https://www.gateonai.com/tools/coingecko-ai)** — AI cryptocurrency data aggregator platform `free` `score: 63/100`
 
 ## Customer Support
 
-- **[Yuma AI](https://www.gateonai.com/tools/yuma-ai)** — AI customer support automation for Shopify `freemium` `score: 67/100`
-- **[Ultimate.ai](https://www.gateonai.com/tools/ultimateai)** — AI customer support automation for enterprises `freemium` `score: 67/100`
-- **[Kore.ai](https://www.gateonai.com/tools/koreai)** — AI virtual assistant platform for enterprises `freemium` `score: 67/100`
-- **[Dixa AI](https://www.gateonai.com/tools/dixa-ai)** — AI conversational customer service platform `freemium` `score: 67/100`
-- **[Forethought AI](https://www.gateonai.com/tools/forethought-ai)** — AI support automation with workflow intelligence `freemium` `score: 67/100`
-- **[Quiq](https://www.gateonai.com/tools/quiq)** — AI conversational platform for retail and hospitality `freemium` `score: 67/100`
-- **[Tidio](https://www.gateonai.com/tools/tidio)** — AI chatbot and live chat for ecommerce customer support. `freemium` `score: 67/100`
-- **[Zendesk Sunshine](https://www.gateonai.com/tools/zendesk-sunshine)** — AI conversational CRM and customer service platform `freemium` `score: 67/100`
+- **[Spiceworks Help Desk](https://www.gateonai.com/tools/spiceworks-helpdesk)** — AI free IT help desk `free` `score: 67/100`
+- **[Planhat AI](https://www.gateonai.com/tools/planhat-ai)** — AI customer platform for success and revenue `freemium` `score: 62/100`
+- **[Help Scout AI](https://www.gateonai.com/tools/help-scout-ai)** — AI customer support platform for growing businesses `freemium` `score: 62/100`
+- **[Freshservice AI](https://www.gateonai.com/tools/freshservice-ai)** — AI IT service management and ITSM platform `freemium` `score: 62/100`
+- **[Kore.ai](https://www.gateonai.com/tools/koreai)** — AI virtual assistant platform for enterprises `freemium` `score: 62/100`
+- **[Zendesk Sunshine](https://www.gateonai.com/tools/zendesk-sunshine)** — AI conversational CRM and customer service platform `freemium` `score: 62/100`
+- **[Crisp](https://www.gateonai.com/tools/crisp-chat)** — AI customer messaging platform for startups and SMBs. `freemium` `score: 62/100`
+- **[Forethought AI](https://www.gateonai.com/tools/forethought-ai)** — AI support automation with workflow intelligence `freemium` `score: 62/100`
 
 ## Cybersecurity
 
-- **[Snyk](https://www.gateonai.com/tools/snyk)** — AI tool for finding vulnerabilities in code. `freemium` `score: 71/100`
-- **[Malwarebytes AI](https://www.gateonai.com/tools/malwarebytes-ai)** — AI-powered malware detection and removal `freemium` `score: 66/100`
-- **[Abnormal Security](https://www.gateonai.com/tools/abnormal-security)** — AI platform for stopping advanced email attacks. `paid` `score: 64/100`
-- **[Rapid7 AI Pro](https://www.gateonai.com/tools/rapid7-ai-pro)** — AI vulnerability and threat management `freemium` `score: 63/100`
-- **[Wazuh AI](https://www.gateonai.com/tools/wazuh-ai)** — Open-source AI security information platform `free` `score: 63/100`
-- **[Tenable Pro AI](https://www.gateonai.com/tools/tenable-pro-ai)** — AI exposure and vulnerability management `freemium` `score: 63/100`
-- **[NinjaRMM AI](https://www.gateonai.com/tools/ninjarmm-ai)** — AI endpoint management and security platform `freemium` `score: 63/100`
-- **[Tessian](https://www.gateonai.com/tools/tessian)** — AI-powered email security — now part of Proofpoint. `paid` `score: 62/100`
+- **[Snyk](https://www.gateonai.com/tools/snyk)** — AI tool for finding vulnerabilities in code. `freemium` `score: 68/100`
+- **[Wazuh AI](https://www.gateonai.com/tools/wazuh-ai)** — Open-source AI security information platform `free` `score: 68/100`
+- **[CLI](https://www.gateonai.com/tools/cli)** — CLI tool that scans MCP servers for command injection, prompt injection, and secret leaks. `free` `score: 67/100`
+- **[NinjaRMM AI](https://www.gateonai.com/tools/ninjarmm-ai)** — AI endpoint management and security platform `freemium` `score: 62/100`
+- **[Malwarebytes AI](https://www.gateonai.com/tools/malwarebytes-ai)** — AI-powered malware detection and removal `freemium` `score: 62/100`
+- **[Aqua Security AI](https://www.gateonai.com/tools/aqua-security-ai)** — AI cloud-native security for containers `freemium` `score: 62/100`
+- **[Lookout AI](https://www.gateonai.com/tools/lookout-ai)** — AI mobile endpoint and cloud security platform `freemium` `score: 62/100`
+- **[Wiz AI](https://www.gateonai.com/tools/wiz-ai)** — AI cloud security posture management `freemium` `score: 62/100`
 
 ## Data Analysis
 
-- **[Sisense](https://www.gateonai.com/tools/sisense)** — AI-driven analytics embedded in business applications `freemium` `score: 67/100`
-- **[ThoughtSpot](https://www.gateonai.com/tools/thoughtspot)** — AI analytics with natural language search for data `freemium` `score: 67/100`
-- **[Polymer](https://www.gateonai.com/tools/polymer)** — AI database builder for non-technical teams `freemium` `score: 67/100`
-- **[Mode Analytics](https://www.gateonai.com/tools/mode-analytics)** — AI-powered analytics platform for data teams `freemium` `score: 67/100`
-- **[Deepnote](https://www.gateonai.com/tools/deepnote)** — AI data notebook for collaborative analysis `freemium` `score: 67/100`
-- **[H2O.ai](https://www.gateonai.com/tools/h2oai)** — Open-source AI and machine learning platform. `freemium` `score: 67/100`
-- **[Hex AI](https://www.gateonai.com/tools/hex-ai)** — Collaborative data notebooks with AI-powered analytics. `freemium` `score: 67/100`
-- **[Amazon SageMaker](https://www.gateonai.com/tools/amazon-sagemaker)** — AWS AI machine learning platform for developers `freemium` `score: 67/100`
+- **[Redash AI](https://www.gateonai.com/tools/redash-ai)** — Open-source AI query and visualization tool `free` `score: 68/100`
+- **[Google Looker Studio](https://www.gateonai.com/tools/google-looker-studio)** — Free AI-powered data visualization by Google `free` `score: 68/100`
+- **[Grouparoo](https://www.gateonai.com/tools/grouparoo)** — AI reverse ETL tool `free` `score: 67/100`
+- **[Jupyter AI](https://www.gateonai.com/tools/jupyter-ai)** — Free open-source AI notebook for data science `free` `score: 67/100`
+- **[Senro](https://www.gateonai.com/tools/senro)** — Platform for evaluating and monitoring WebMCP tools with goal‑oriented and trajectory evals `free` `score: 67/100`
+- **[Preset AI](https://www.gateonai.com/tools/preset-ai)** — AI cloud-hosted Apache Superset analytics `freemium` `score: 62/100`
+- **[Snowflake AI](https://www.gateonai.com/tools/snowflake-ai)** — AI data cloud with Cortex intelligence features `freemium` `score: 62/100`
+- **[H2O.ai](https://www.gateonai.com/tools/h2oai)** — Open-source AI and machine learning platform. `freemium` `score: 62/100`
 
 ## Design
 
+- **[Vectornator](https://www.gateonai.com/tools/vectornator)** — AI vector illustration tool `free` `score: 71/100`
+- **[Uizard](https://www.gateonai.com/tools/uizard)** — Design mobile apps and websites using AI. `freemium` `score: 70/100`
+- **[Origami Studio AI](https://www.gateonai.com/tools/origami-studio-ai)** — Free AI interaction design tool by Meta `free` `score: 68/100`
 - **[Khroma](https://www.gateonai.com/tools/khroma)** — AI color tool that learns your palette preferences. `free` `score: 68/100`
-- **[Visme](https://www.gateonai.com/tools/visme)** — AI visual communication and infographic platform `freemium` `score: 67/100`
-- **[Magic Patterns](https://www.gateonai.com/tools/magic-patterns)** — AI UI generator matching your design system `freemium` `score: 67/100`
-- **[InVision](https://www.gateonai.com/tools/invision)** — AI-powered design collaboration and prototyping `freemium` `score: 67/100`
-- **[Akool](https://www.gateonai.com/tools/akool)** — AI visual content creation for marketing teams `freemium` `score: 67/100`
-- **[Penpot AI](https://www.gateonai.com/tools/penpot-ai)** — Open-source design tool with AI capabilities `free` `score: 67/100`
-- **[Uizard](https://www.gateonai.com/tools/uizard)** — Design mobile apps and websites using AI. `freemium` `score: 67/100`
-- **[Motiff](https://www.gateonai.com/tools/motiff)** — AI-native design tool with professional capabilities `freemium` `score: 66/100`
+- **[Hatchful](https://www.gateonai.com/tools/hatchful)** — AI logo maker by Shopify `free` `score: 67/100`
+- **[TechDrawAI](https://www.gateonai.com/tools/techdrawai)** — Turn a photo or sketch into a machine ready technical drawing in seconds. No CAD skills required. `paid` `score: 63/100`
+- **[Penpot AI](https://www.gateonai.com/tools/penpot-ai)** — Open-source design tool with AI capabilities `free` `score: 63/100`
+- **[Sketch AI](https://www.gateonai.com/tools/sketch-ai)** — AI design tool for Mac with vector editing `freemium` `score: 62/100`
 
 ## Development
 
-- **[Cursor](https://www.gateonai.com/tools/cursor)** — An AI-powered code editor built on VS Code. `freemium` `score: 84/100`
-- **[Groq](https://www.gateonai.com/tools/groq)** — High-speed LPU inference engine for running AI models. `freemium` `score: 82/100`
-- **[Mistral](https://www.gateonai.com/tools/mistral-ai)** — Efficient and high-performance open-weight AI models. `freemium` `score: 82/100`
-- **[Codeium](https://www.gateonai.com/tools/codeium)** — Free AI coding assistant for 70+ programming languages `free` `score: 75/100`
-- **[LlamaIndex](https://www.gateonai.com/tools/llamaindex)** — Framework for connecting LLMs with external data sources. `free` `score: 73/100`
-- **[LangChain](https://www.gateonai.com/tools/langchain)** — Popular framework for building context-aware AI applications. `free` `score: 73/100`
-- **[Llama 4](https://www.gateonai.com/tools/llama-4)** — Meta's most advanced open-weight multimodal AI model `free` `score: 73/100`
-- **[Chroma](https://www.gateonai.com/tools/chroma)** — The AI-native open-source embedding database. `free` `score: 73/100`
+- **[Cursor](https://www.gateonai.com/tools/cursor)** — An AI-powered code editor built on VS Code. `freemium` `score: 83/100`
+- **[Mistral](https://www.gateonai.com/tools/mistral-ai)** — Efficient and high-performance open-weight AI models. `freemium` `score: 81/100`
+- **[Groq](https://www.gateonai.com/tools/groq)** — High-speed LPU inference engine for running AI models. `freemium` `score: 81/100`
+- **[Tabby](https://www.gateonai.com/tools/tabby)** — Self-hosted AI coding assistant `free` `score: 75/100`
+- **[Codeium](https://www.gateonai.com/tools/codeium)** — Free AI coding assistant for 70+ programming languages `free` `score: 73/100`
+- **[n8n](https://www.gateonai.com/tools/n8n)** — Open-source AI workflow automation — self-hostable alternative to Zapier `freemium` `score: 68/100`
+- **[Argilla AI](https://www.gateonai.com/tools/argilla-ai)** — Open-source AI data annotation platform `free` `score: 68/100`
+- **[Label Studio AI](https://www.gateonai.com/tools/label-studio-ai)** — Open-source AI data labeling platform `free` `score: 68/100`
 
 ## Document Processing
 
-- **[ChatPDF](https://www.gateonai.com/tools/chatpdf)** — AI tool for chatting with PDF documents `freemium` `score: 74/100`
-- **[ABBYY](https://www.gateonai.com/tools/abbyy)** — AI document intelligence and process mining `freemium` `score: 71/100`
-- **[Rossum](https://www.gateonai.com/tools/rossum)** — AI document understanding for business automation `freemium` `score: 67/100`
-- **[Textract AWS](https://www.gateonai.com/tools/textract-aws)** — AWS AI document text extraction service `freemium` `score: 67/100`
-- **[Docugami](https://www.gateonai.com/tools/docugami)** — AI document understanding for business agreements `freemium` `score: 67/100`
-- **[Google Document AI](https://www.gateonai.com/tools/google-document-ai)** — Google AI for document understanding and extraction `freemium` `score: 67/100`
-- **[Nanonets](https://www.gateonai.com/tools/nanonets)** — AI document processing and data extraction platform `freemium` `score: 66/100`
-- **[Docsumo](https://www.gateonai.com/tools/docsumo)** — AI data extraction from business documents `freemium` `score: 64/100`
+- **[ChatPDF](https://www.gateonai.com/tools/chatpdf)** — AI tool for chatting with PDF documents `freemium` `score: 70/100`
+- **[ABBYY](https://www.gateonai.com/tools/abbyy)** — AI document intelligence and process mining `freemium` `score: 67/100`
+- **[Docling](https://www.gateonai.com/tools/docling)** — AI document conversion tool `free` `score: 67/100`
+- **[Camelot](https://www.gateonai.com/tools/camelot-pdf)** — AI PDF table extraction library `free` `score: 67/100`
+- **[JPG2Excel](https://www.gateonai.com/tools/jpg2excel)** — Convert JPG and PNG table images into editable Excel spreadsheets. `free` `score: 67/100`
+- **[Foxit PDF AI](https://www.gateonai.com/tools/foxit-pdf-ai)** — AI PDF editor and reader `freemium` `score: 65/100`
+- **[Nanonets](https://www.gateonai.com/tools/nanonets)** — AI document processing and data extraction platform `freemium` `score: 62/100`
+- **[Docsumo](https://www.gateonai.com/tools/docsumo)** — AI data extraction from business documents `freemium` `score: 62/100`
 
 ## E-commerce
 
 - **[WooCommerce AI](https://www.gateonai.com/tools/woocommerce-ai)** — AI WordPress e-commerce with extensions `free` `score: 68/100`
-- **[Gorgias AI](https://www.gateonai.com/tools/gorgias-ai)** — AI helpdesk for e-commerce customer experience `freemium` `score: 67/100`
-- **[Retention.com](https://www.gateonai.com/tools/retentioncom)** — AI email retargeting for e-commerce recovery `freemium` `score: 67/100`
-- **[Nosto AI](https://www.gateonai.com/tools/nosto-ai)** — AI personalization for product recommendations `freemium` `score: 67/100`
-- **[LimeSpot](https://www.gateonai.com/tools/limespot)** — AI product recommendations for Shopify stores `freemium` `score: 67/100`
-- **[Privy](https://www.gateonai.com/tools/privy)** — AI email and SMS marketing for Shopify stores `freemium` `score: 67/100`
-- **[BigCommerce AI](https://www.gateonai.com/tools/bigcommerce-ai)** — AI e-commerce platform for growing businesses `freemium` `score: 67/100`
-- **[Pebblely](https://www.gateonai.com/tools/pebblely)** — Create professional product photos with AI. `freemium` `score: 67/100`
+- **[Octane AI](https://www.gateonai.com/tools/octane-ai)** — AI quizzes and personalization for Shopify brands. `freemium` `score: 62/100`
+- **[OpenCart](https://www.gateonai.com/tools/opencart)** — AI open-source shopping cart `free` `score: 62/100`
+- **[Yotpo](https://www.gateonai.com/tools/yotpo)** — AI reviews, loyalty, and SMS marketing platform `freemium` `score: 62/100`
+- **[BigCommerce AI](https://www.gateonai.com/tools/bigcommerce-ai)** — AI e-commerce platform for growing businesses `freemium` `score: 62/100`
+- **[Klevu](https://www.gateonai.com/tools/klevu)** — AI search and product discovery for e-commerce `freemium` `score: 62/100`
+- **[Nosto AI](https://www.gateonai.com/tools/nosto-ai)** — AI personalization for product recommendations `freemium` `score: 62/100`
+- **[Visenze AI](https://www.gateonai.com/tools/visenze-ai)** — AI visual search and discovery for retail `freemium` `score: 62/100`
 
 ## Education
 
-- **[Socratic](https://www.gateonai.com/tools/socratic)** — Google's AI homework helper for students `free` `score: 73/100`
-- **[Duolingo Max](https://www.gateonai.com/tools/duolingo-max)** — AI-powered language learning with roleplay. `freemium` `score: 71/100`
-- **[Khan Academy AI](https://www.gateonai.com/tools/khan-academy-ai)** — Free personalized AI learning for all subjects `free` `score: 68/100`
-- **[Coursera](https://www.gateonai.com/tools/coursera)** — AI-enhanced online learning from top universities `freemium` `score: 67/100`
-- **[IXL Learning](https://www.gateonai.com/tools/ixl-learning)** — AI personalized learning for K-12 all subjects `freemium` `score: 67/100`
-- **[Mathway](https://www.gateonai.com/tools/mathway)** — AI math problem solver with step-by-step solutions `freemium` `score: 67/100`
-- **[Formative](https://www.gateonai.com/tools/formative)** — AI assessment platform for real-time student feedback `freemium` `score: 67/100`
-- **[Century Tech](https://www.gateonai.com/tools/century-tech)** — AI learning platform for schools and businesses `freemium` `score: 67/100`
+- **[Maiths](https://www.gateonai.com/tools/maiths)** — An AI Maths Helper, For IGCSE Exams. `free` `score: 70/100`
+- **[CommonLit](https://www.gateonai.com/tools/commonlit)** — AI literacy program for schools `free` `score: 68/100`
+- **[Socratic](https://www.gateonai.com/tools/socratic)** — Google's AI homework helper for students `free` `score: 68/100`
+- **[Foundera](https://www.gateonai.com/tools/foundera)** — AI-powered startup school that guides founders from idea to product. `free` `score: 67/100`
+- **[Anki AI](https://www.gateonai.com/tools/anki-ai)** — Free AI-enhanced spaced repetition flashcards `free` `score: 67/100`
+- **[Duolingo Max](https://www.gateonai.com/tools/duolingo-max)** — AI-powered language learning with roleplay. `freemium` `score: 67/100`
+- **[Adept](https://www.gateonai.com/tools/adept)** — Turn any YouTube playlist into a Udemy‑style course with progress tracking. `free` `score: 67/100`
+- **[Nadir](https://www.gateonai.com/tools/nadir)** — AI‑graded technical trivia quiz app for interview prep and learning `free` `score: 67/100`
 
 ## Email AI
 
-- **[Mailmeteor](https://www.gateonai.com/tools/mailmeteor)** — AI email marketing for Gmail users `freemium` `score: 67/100`
-- **[Pipl AI](https://www.gateonai.com/tools/pipl-ai)** — AI cold email outreach with deep personalization `freemium` `score: 67/100`
-- **[Streak](https://www.gateonai.com/tools/streak)** — AI CRM and email management inside Gmail `freemium` `score: 67/100`
-- **[Yesware](https://www.gateonai.com/tools/yesware)** — AI email tracking and sales prospecting tool `freemium` `score: 67/100`
-- **[Mixmax](https://www.gateonai.com/tools/mixmax)** — AI email productivity and sales engagement tool `freemium` `score: 66/100`
-- **[Flowrite](https://www.gateonai.com/tools/flowrite)** — AI email writing from brief instructions `freemium` `score: 66/100`
-- **[Boomerang](https://www.gateonai.com/tools/boomerang)** — AI email productivity for Gmail and Outlook `freemium` `score: 66/100`
-- **[Woodpecker](https://www.gateonai.com/tools/woodpecker)** — AI cold email automation for B2B outreach `freemium` `score: 64/100`
+- **[Loops](https://www.gateonai.com/tools/loops)** — AI email platform for SaaS `freemium` `score: 65/100`
+- **[Yesware](https://www.gateonai.com/tools/yesware)** — AI email tracking and sales prospecting tool `freemium` `score: 62/100`
+- **[Woodpecker](https://www.gateonai.com/tools/woodpecker)** — AI cold email automation for B2B outreach `freemium` `score: 62/100`
+- **[Streak](https://www.gateonai.com/tools/streak)** — AI CRM and email management inside Gmail `freemium` `score: 62/100`
+- **[Mailmeteor](https://www.gateonai.com/tools/mailmeteor)** — AI email marketing for Gmail users `freemium` `score: 62/100`
+- **[Flowrite](https://www.gateonai.com/tools/flowrite)** — AI email writing from brief instructions `freemium` `score: 62/100`
+- **[SaneBox AI](https://www.gateonai.com/tools/sanebox-ai)** — AI email filtering and inbox management `freemium` `score: 62/100`
+- **[Shortwave](https://www.gateonai.com/tools/shortwave)** — AI email client with smart organization `freemium` `score: 62/100`
 
 ## Energy
 
-- **[Sievert AI](https://www.gateonai.com/tools/sievert-ai)** — AI energy analytics for industrial facilities `freemium` `score: 67/100`
-- **[Schneider Electric AI](https://www.gateonai.com/tools/schneider-electric-ai)** — AI energy management and sustainability platform `paid` `score: 60/100`
-- **[Voltus](https://www.gateonai.com/tools/voltus)** — AI demand response platform connecting businesses to energy markets. `paid` `score: 60/100`
-- **[BrainBox AI](https://www.gateonai.com/tools/brainbox-ai)** — AI for optimizing HVAC systems in commercial buildings. `paid` `score: 60/100`
-- **[Innowatts](https://www.gateonai.com/tools/innowatts)** — AI energy intelligence for utilities and retailers. `paid` `score: 60/100`
-- **[GridX](https://www.gateonai.com/tools/gridx)** — AI platform for utility rate analysis and energy programs. `paid` `score: 60/100`
-- **[C3.ai Energy](https://www.gateonai.com/tools/c3ai-energy)** — AI applications for energy sector optimization `paid` `score: 60/100`
-- **[Stem](https://www.gateonai.com/tools/stem)** — AI-driven energy storage and smart grid optimization. `paid` `score: 60/100`
+- **[OpenEEmeter](https://www.gateonai.com/tools/openeemeter)** — Energy efficiency and building performance analysis `free` `score: 68/100`
+- **[Sievert AI](https://www.gateonai.com/tools/sievert-ai)** — AI energy analytics for industrial facilities `freemium` `score: 62/100`
+- **[Stem](https://www.gateonai.com/tools/stem)** — AI-driven energy storage and smart grid optimization. `paid` `score: 54/100`
+- **[C3.ai Energy](https://www.gateonai.com/tools/c3ai-energy)** — AI applications for energy sector optimization `paid` `score: 54/100`
+- **[Voltus](https://www.gateonai.com/tools/voltus)** — AI demand response platform connecting businesses to energy markets. `paid` `score: 54/100`
+- **[BrainBox AI](https://www.gateonai.com/tools/brainbox-ai)** — AI for optimizing HVAC systems in commercial buildings. `paid` `score: 54/100`
+- **[GridX](https://www.gateonai.com/tools/gridx)** — AI platform for utility rate analysis and energy programs. `paid` `score: 54/100`
+- **[Innowatts](https://www.gateonai.com/tools/innowatts)** — AI energy intelligence for utilities and retailers. `paid` `score: 54/100`
 
 ## Environment
 
-- **[Tomorrow.io](https://www.gateonai.com/tools/tomorrowio)** — Hyper-local weather forecasting using AI and satellites. `freemium` `score: 67/100`
-- **[Planet Labs](https://www.gateonai.com/tools/planet-labs)** — AI satellite imagery for environmental monitoring `freemium` `score: 67/100`
-- **[Xview](https://www.gateonai.com/tools/xview)** — AI damage assessment from satellite imagery `free` `score: 67/100`
-- **[Hyphen](https://www.gateonai.com/tools/hyphen)** — AI sustainability reporting and carbon tracking `freemium` `score: 67/100`
-- **[EcoCart](https://www.gateonai.com/tools/ecocart)** — AI carbon footprint calculator for e-commerce `freemium` `score: 67/100`
-- **[Pachama AI](https://www.gateonai.com/tools/pachama-ai)** — AI carbon market verification for forests `freemium` `score: 64/100`
-- **[Satellite Vu](https://www.gateonai.com/tools/satellite-vu)** — AI thermal satellite monitoring for emissions and energy. `paid` `score: 60/100`
-- **[Jupiter Intelligence](https://www.gateonai.com/tools/jupiter-intelligence)** — AI climate risk analytics for infrastructure and finance. `paid` `score: 60/100`
+- **[Climate TRACE](https://www.gateonai.com/tools/climate-trace)** — AI greenhouse gas tracking `free` `score: 67/100`
+- **[Our World in Data AI](https://www.gateonai.com/tools/our-world-in-data-ai)** — AI climate and environment data `free` `score: 67/100`
+- **[Xview](https://www.gateonai.com/tools/xview)** — AI damage assessment from satellite imagery `free` `score: 62/100`
+- **[Hyphen](https://www.gateonai.com/tools/hyphen)** — AI sustainability reporting and carbon tracking `freemium` `score: 62/100`
+- **[EcoCart](https://www.gateonai.com/tools/ecocart)** — AI carbon footprint calculator for e-commerce `freemium` `score: 62/100`
+- **[Pachama AI](https://www.gateonai.com/tools/pachama-ai)** — AI carbon market verification for forests `freemium` `score: 62/100`
+- **[Tomorrow.io](https://www.gateonai.com/tools/tomorrowio)** — Hyper-local weather forecasting using AI and satellites. `freemium` `score: 62/100`
+- **[Planet Labs](https://www.gateonai.com/tools/planet-labs)** — AI satellite imagery for environmental monitoring `freemium` `score: 62/100`
 
 ## Fashion
 
-- **[Ablo](https://www.gateonai.com/tools/ablo-ai)** — AI tool for fashion entrepreneurs to build cohesive clothing lines. `freemium` `score: 78/100`
-- **[Cala](https://www.gateonai.com/tools/cala)** — AI-powered fashion design and production platform `freemium` `score: 67/100`
-- **[Stitch Fix AI](https://www.gateonai.com/tools/stitch-fix-ai)** — AI personal styling service for clothing `freemium` `score: 67/100`
-- **[True Fit AI](https://www.gateonai.com/tools/true-fit-ai)** — AI accurate clothing size recommendation `freemium` `score: 67/100`
-- **[Fashable](https://www.gateonai.com/tools/fashable)** — AI fashion design for clothing concepts `freemium` `score: 67/100`
-- **[Acloset](https://www.gateonai.com/tools/acloset)** — AI outfit planning based on your digital closet and weather. `freemium` `score: 66/100`
-- **[Whering](https://www.gateonai.com/tools/whering)** — The "digital closet" app that uses AI for sustainable outfit suggestions. `freemium` `score: 64/100`
-- **[3DLOOK](https://www.gateonai.com/tools/3dlook)** — AI body scanning for perfect fit and size recommendations. `paid` `score: 63/100`
+- **[Ablo](https://www.gateonai.com/tools/ablo-ai)** — AI tool for fashion entrepreneurs to build cohesive clothing lines. `freemium` `score: 75/100`
+- **[Stitch Fix AI](https://www.gateonai.com/tools/stitch-fix-ai)** — AI personal styling service for clothing `freemium` `score: 62/100`
+- **[Whering](https://www.gateonai.com/tools/whering)** — The "digital closet" app that uses AI for sustainable outfit suggestions. `freemium` `score: 62/100`
+- **[Fashable](https://www.gateonai.com/tools/fashable)** — AI fashion design for clothing concepts `freemium` `score: 62/100`
+- **[True Fit AI](https://www.gateonai.com/tools/true-fit-ai)** — AI accurate clothing size recommendation `freemium` `score: 62/100`
+- **[Vue AI](https://www.gateonai.com/tools/vue-ai)** — AI platform for fashion retail personalization `freemium` `score: 62/100`
+- **[Acloset](https://www.gateonai.com/tools/acloset)** — AI outfit planning based on your digital closet and weather. `freemium` `score: 62/100`
+- **[3DLOOK](https://www.gateonai.com/tools/3dlook)** — AI body scanning for perfect fit and size recommendations. `paid` `score: 62/100`
 
 ## Finance
 
-- **[Credit Karma](https://www.gateonai.com/tools/credit-karma)** — Free AI credit monitoring and financial insights `free` `score: 71/100`
-- **[QuickBooks AI](https://www.gateonai.com/tools/quickbooks-ai)** — AI accounting with automated bookkeeping features `freemium` `score: 67/100`
-- **[Mosaic Tech](https://www.gateonai.com/tools/mosaic-tech)** — AI strategic finance platform for growing companies `freemium` `score: 67/100`
-- **[Ramp Finance](https://www.gateonai.com/tools/ramp-finance)** — AI corporate cards and expense automation `freemium` `score: 67/100`
-- **[Numerai](https://www.gateonai.com/tools/numerai)** — AI hedge fund that crowdsources stock market predictions. `freemium` `score: 67/100`
-- **[Wise AI](https://www.gateonai.com/tools/wise-ai)** — AI international money transfers and banking `freemium` `score: 67/100`
-- **[Acorns AI](https://www.gateonai.com/tools/acorns-ai)** — AI micro-investing and financial wellness app `freemium` `score: 67/100`
-- **[Betterment](https://www.gateonai.com/tools/betterment)** — AI-powered robo-advisor for automated investing `freemium` `score: 67/100`
+- **[N26 AI](https://www.gateonai.com/tools/n26-ai)** — AI digital bank for European customers `free` `score: 68/100`
+- **[Monzo AI](https://www.gateonai.com/tools/monzo-ai)** — AI digital bank with spending analytics `free` `score: 68/100`
+- **[LDBD](https://www.gateonai.com/tools/ldbd)** — Public leaderboard for AI and human stock, ETF, and crypto predictions. `free` `score: 67/100`
+- **[Credit Karma](https://www.gateonai.com/tools/credit-karma)** — Free AI credit monitoring and financial insights `free` `score: 67/100`
+- **[Chime AI](https://www.gateonai.com/tools/chime-ai)** — AI-powered digital banking for everyday banking `free` `score: 63/100`
+- **[Wave AI](https://www.gateonai.com/tools/wave-ai)** — Free AI accounting for small businesses `free` `score: 63/100`
+- **[Wise AI](https://www.gateonai.com/tools/wise-ai)** — AI international money transfers and banking `freemium` `score: 62/100`
+- **[Pulse Local](https://www.gateonai.com/tools/pulse-local)** — Local AI budgeting for Mac that keeps all data on-device `free` `score: 62/100`
 
 ## Gaming & 3D
 
-- **[Rosebud](https://www.gateonai.com/tools/rosebud-ai)** — AI-powered game development platform from text to game. `freemium` `score: 74/100`
-- **[Unity Sentis](https://www.gateonai.com/tools/unity-sentis)** — Run AI models at runtime inside Unity games and apps. `freemium` `score: 73/100`
-- **[Inworld AI](https://www.gateonai.com/tools/inworld-ai)** — AI-powered NPCs with personality and memory. `freemium` `score: 67/100`
-- **[Meshy AI](https://www.gateonai.com/tools/meshy-ai)** — AI 3D model and texture generation platform `freemium` `score: 67/100`
-- **[Spline AI](https://www.gateonai.com/tools/spline-ai)** — 3D design tool with generative AI capabilities. `freemium` `score: 67/100`
-- **[Kaedim](https://www.gateonai.com/tools/kaedim)** — AI 3D model generation from 2D images `freemium` `score: 67/100`
-- **[Didimo](https://www.gateonai.com/tools/didimo)** — AI-powered 3D avatar creation for games and metaverse. `freemium` `score: 66/100`
-- **[Scenario](https://www.gateonai.com/tools/scenario)** — AI for creating consistent game art assets. `freemium` `score: 66/100`
+- **[Rosebud](https://www.gateonai.com/tools/rosebud-ai)** — AI-powered game development platform from text to game. `freemium` `score: 70/100`
+- **[Unity Sentis](https://www.gateonai.com/tools/unity-sentis)** — Run AI models at runtime inside Unity games and apps. `freemium` `score: 68/100`
+- **[Baduz](https://www.gateonai.com/tools/baduz)** — Create and share AI-assisted third‑person action‑adventure games directly in your browser. `free` `score: 67/100`
+- **[WhoDunnitAI](https://www.gateonai.com/tools/whodunnitai)** — Voice‑driven murder mystery game where you interrogate AI suspects in real time `free` `score: 67/100`
+- **[Unity's ML-Agents](https://www.gateonai.com/tools/unity-ml-agents)** — Machine learning toolkit for Unity `free` `score: 67/100`
+- **[Genie AI Game](https://www.gateonai.com/tools/genie-ai-game)** — AI interactive game environments `free` `score: 67/100`
+- **[AI Dungeon](https://www.gateonai.com/tools/ai-dungeon)** — AI text adventure game with infinite storylines `freemium` `score: 62/100`
+- **[Inworld AI](https://www.gateonai.com/tools/inworld-ai)** — AI-powered NPCs with personality and memory. `freemium` `score: 62/100`
 
 ## HR & Recruiting
 
-- **[15Five](https://www.gateonai.com/tools/15five)** — AI continuous performance management platform `freemium` `score: 71/100`
-- **[Lattice](https://www.gateonai.com/tools/lattice)** — AI people management and performance platform `freemium` `score: 67/100`
-- **[Deel](https://www.gateonai.com/tools/deel)** — AI global payroll and contractor management `freemium` `score: 67/100`
-- **[SmartRecruiters](https://www.gateonai.com/tools/smartrecruiters)** — AI enterprise recruiting platform for global hiring `freemium` `score: 67/100`
-- **[HackerRank AI](https://www.gateonai.com/tools/hackerrank-ai)** — AI developer skills assessment and hiring platform `freemium` `score: 67/100`
-- **[SeekOut](https://www.gateonai.com/tools/seekout)** — AI talent search for diverse and hard-to-find candidates `freemium` `score: 67/100`
-- **[Leapsome](https://www.gateonai.com/tools/leapsome)** — AI people enablement platform for performance and learning `freemium` `score: 67/100`
-- **[Workable](https://www.gateonai.com/tools/workable)** — AI recruiting platform with candidate sourcing `freemium` `score: 66/100`
+- **[15Five](https://www.gateonai.com/tools/15five)** — AI continuous performance management platform `freemium` `score: 67/100`
+- **[Textio AI](https://www.gateonai.com/tools/textio-ai)** — AI job description writer reducing bias `freemium` `score: 67/100`
+- **[Lever AI](https://www.gateonai.com/tools/lever-ai)** — AI talent acquisition suite for enterprises `freemium` `score: 62/100`
+- **[SmartRecruiters](https://www.gateonai.com/tools/smartrecruiters)** — AI enterprise recruiting platform for global hiring `freemium` `score: 62/100`
+- **[SeekOut](https://www.gateonai.com/tools/seekout)** — AI talent search for diverse and hard-to-find candidates `freemium` `score: 62/100`
+- **[Recruitee AI](https://www.gateonai.com/tools/recruitee-ai)** — AI collaborative hiring platform for teams `freemium` `score: 62/100`
+- **[Codility AI](https://www.gateonai.com/tools/codility-ai)** — AI coding assessment and developer screening `freemium` `score: 62/100`
+- **[HireEZ AI](https://www.gateonai.com/tools/hireez-ai)** — AI outbound recruiting and talent sourcing `freemium` `score: 62/100`
 
 ## Healthcare
 
-- **[MDClone](https://www.gateonai.com/tools/mdclone)** — AI healthcare data analytics for hospitals `paid` `score: 68/100`
-- **[Headspace](https://www.gateonai.com/tools/headspace)** — AI-guided meditation and mental wellness app `freemium` `score: 67/100`
-- **[Infermedica](https://www.gateonai.com/tools/infermedica)** — AI medical guidance for symptom triage `freemium` `score: 67/100`
-- **[Nuralogix AI](https://www.gateonai.com/tools/nuralogix-ai)** — AI camera-based non-invasive health monitoring `freemium` `score: 66/100`
-- **[Nabla](https://www.gateonai.com/tools/nabla)** — AI medical documentation assistant for doctors. `freemium` `score: 66/100`
-- **[Wysa Health](https://www.gateonai.com/tools/wysa-health)** — AI mental health support with therapeutic tools `freemium` `score: 66/100`
-- **[K Health AI](https://www.gateonai.com/tools/k-health-ai)** — AI primary care with symptom assessment `freemium` `score: 66/100`
-- **[Calm AI App](https://www.gateonai.com/tools/calm-ai-app)** — AI sleep and meditation wellness platform `freemium` `score: 66/100`
+- **[Google Health AI](https://www.gateonai.com/tools/google-health-ai)** — Google AI for health research and clinical tools `free` `score: 68/100`
+- **[Be My Eyes AI](https://www.gateonai.com/tools/be-my-eyes-ai)** — AI visual assistance for blind users `free` `score: 68/100`
+- **[Seeing AI](https://www.gateonai.com/tools/seeing-ai)** — Microsoft AI talking camera for blind users `free` `score: 68/100`
+- **[MDClone](https://www.gateonai.com/tools/mdclone)** — AI healthcare data analytics for hospitals `paid` `score: 65/100`
+- **[K Health AI](https://www.gateonai.com/tools/k-health-ai)** — AI primary care with symptom assessment `freemium` `score: 62/100`
+- **[Doceree AI](https://www.gateonai.com/tools/doceree-ai)** — AI programmatic advertising for healthcare professionals `freemium` `score: 62/100`
+- **[Amazon Comprehend Medical](https://www.gateonai.com/tools/amazon-comprehend-medical)** — AWS AI for medical text analysis `freemium` `score: 62/100`
+- **[Woebot Health AI](https://www.gateonai.com/tools/woebot-health-ai)** — AI mental health chatbot with evidence-based CBT `freemium` `score: 62/100`
 
 ## Image Generation
 
-- **[Leonardo](https://www.gateonai.com/tools/leonardoai)** — Professional-grade AI image generation and editing. `freemium` `score: 74/100`
-- **[Reface AI](https://www.gateonai.com/tools/reface-ai)** — AI face swap for videos and entertainment `freemium` `score: 73/100`
-- **[Ideogram](https://www.gateonai.com/tools/ideogram)** — AI image generator excelling at text within images. `freemium` `score: 73/100`
-- **[Erase Background](https://www.gateonai.com/tools/erase-background)** — Free instant AI background removal for photos `free` `score: 73/100`
-- **[Bing Image Creator](https://www.gateonai.com/tools/bing-image-creator)** — Microsoft's free AI image generator powered by DALL-E. `freemium` `score: 73/100`
-- **[Dall-E 3](https://www.gateonai.com/tools/dall-e-3)** — OpenAI's tool for creating images from text. `freemium` `score: 70/100`
-- **[Midjourney](https://www.gateonai.com/tools/midjourney)** — High-quality artistic image generation via Discord. `paid` `score: 70/100`
-- **[Civitai](https://www.gateonai.com/tools/civitai)** — Community hub for AI art models and prompts `free` `score: 68/100`
+- **[Leonardo](https://www.gateonai.com/tools/leonardoai)** — Professional-grade AI image generation and editing. `freemium` `score: 70/100`
+- **[Erase Background](https://www.gateonai.com/tools/erase-background)** — Free instant AI background removal for photos `free` `score: 68/100`
+- **[Bing Image Creator](https://www.gateonai.com/tools/bing-image-creator)** — Microsoft's free AI image generator powered by DALL-E. `freemium` `score: 68/100`
+- **[Reface AI](https://www.gateonai.com/tools/reface-ai)** — AI face swap for videos and entertainment `freemium` `score: 68/100`
+- **[Ideogram](https://www.gateonai.com/tools/ideogram)** — AI image generator excelling at text within images. `freemium` `score: 68/100`
+- **[Pixray](https://www.gateonai.com/tools/pixray)** — AI pixel art and image generation `free` `score: 67/100`
+- **[FeyNoBg](https://www.gateonai.com/tools/feynobg)** — Automatic background removal model and training library `free` `score: 67/100`
+- **[Raphael AI](https://www.gateonai.com/tools/raphael-ai)** — Free AI image generator — create stunning images from text in seconds. `free` `score: 67/100`
 
 ## Interior Design
 
-- **[MeltFlex AI](https://www.gateonai.com/tools/meltflex-ai)** — Upload any room photo and let AI redesign it with real, shoppable furniture in 20 seconds. `free` `score: 70/100`
-- **[Interior AI](https://www.gateonai.com/tools/interior-ai)** — AI that redistributes and redecorates interiors from photos. `freemium` `score: 67/100`
-- **[Spacely AI](https://www.gateonai.com/tools/spacely-ai)** — AI interior design platform for professionals and homeowners. `freemium` `score: 67/100`
-- **[Collov AI](https://www.gateonai.com/tools/collov-ai)** — AI-powered interior design with instant room rendering. `freemium` `score: 67/100`
-- **[RoomGPT](https://www.gateonai.com/tools/roomgpt)** — Generative AI for redesigning any room in seconds. `freemium` `score: 67/100`
-- **[Maison AI](https://www.gateonai.com/tools/maison-ai)** — AI furniture and interior design recommendation engine. `freemium` `score: 67/100`
-- **[Virtual Staging AI](https://www.gateonai.com/tools/virtual-staging-ai)** — AI virtual staging for real estate photography `freemium` `score: 67/100`
-- **[Decorilla](https://www.gateonai.com/tools/decorilla)** — AI-enhanced online interior design platform `freemium` `score: 66/100`
+- **[MeltFlex AI](https://www.gateonai.com/tools/meltflex-ai)** — Upload any room photo and let AI redesign it with real, shoppable furniture in 20 seconds. `free` `score: 81/100`
+- **[Spacely AI](https://www.gateonai.com/tools/spacely-ai)** — AI interior design platform for professionals and homeowners. `freemium` `score: 62/100`
+- **[Havenly Pro](https://www.gateonai.com/tools/havenly-pro)** — AI interior design service with professionals `freemium` `score: 62/100`
+- **[Collov AI](https://www.gateonai.com/tools/collov-ai)** — AI-powered interior design with instant room rendering. `freemium` `score: 62/100`
+- **[Reimagine Home](https://www.gateonai.com/tools/reimagine-home)** — AI-powered virtual staging and remodeling. `freemium` `score: 62/100`
+- **[Canvas](https://www.gateonai.com/tools/canvas)** — AI that turns 3D scans of rooms into CAD files. `freemium` `score: 62/100`
+- **[RoomGPT](https://www.gateonai.com/tools/roomgpt)** — Generative AI for redesigning any room in seconds. `freemium` `score: 62/100`
+- **[Maison AI](https://www.gateonai.com/tools/maison-ai)** — AI furniture and interior design recommendation engine. `freemium` `score: 62/100`
 
 ## Legal AI
 
-- **[Lawmatics](https://www.gateonai.com/tools/lawmatics)** — AI client intake and legal CRM automation `freemium` `score: 67/100`
-- **[CaseMark](https://www.gateonai.com/tools/casemark)** — AI legal writing and document summarization `freemium` `score: 66/100`
-- **[Filevine](https://www.gateonai.com/tools/filevine)** — AI legal case management and document platform `freemium` `score: 66/100`
-- **[Lexion](https://www.gateonai.com/tools/lexion)** — AI contract management and intelligence platform `freemium` `score: 64/100`
-- **[Clio](https://www.gateonai.com/tools/clio)** — AI-powered legal practice management software `freemium` `score: 63/100`
-- **[Legal Robot](https://www.gateonai.com/tools/legal-robot)** — AI contract analysis and plain language explanation `freemium` `score: 63/100`
-- **[LexisNexis AI](https://www.gateonai.com/tools/lexisnexis-ai)** — AI-powered legal research and analytics platform. `paid` `score: 60/100`
-- **[Casetext](https://www.gateonai.com/tools/casetext)** — AI legal research with CoCounsel, powered by GPT-4. `paid` `score: 60/100`
+- **[3PEAT](https://www.gateonai.com/tools/3peat)** — Practical AI compliance framework builder for SMEs in Hong Kong, Australia, and Singapore. `free` `score: 67/100`
+- **[Ironclad AI](https://www.gateonai.com/tools/ironclad-ai)** — AI contract lifecycle management platform `freemium` `score: 62/100`
+- **[Legal Robot](https://www.gateonai.com/tools/legal-robot)** — AI contract analysis and plain language explanation `freemium` `score: 62/100`
+- **[Filevine](https://www.gateonai.com/tools/filevine)** — AI legal case management and document platform `freemium` `score: 62/100`
+- **[ContractBook AI](https://www.gateonai.com/tools/contractbook-ai)** — AI contract management for modern teams `freemium` `score: 62/100`
+- **[CaseMark](https://www.gateonai.com/tools/casemark)** — AI legal writing and document summarization `freemium` `score: 62/100`
+- **[Briefpoint AI](https://www.gateonai.com/tools/briefpoint-ai)** — AI legal brief writing and analysis tool `freemium` `score: 62/100`
+- **[Lawmatics](https://www.gateonai.com/tools/lawmatics)** — AI client intake and legal CRM automation `freemium` `score: 62/100`
 
 ## Lifestyle
 
-- **[Fabulous](https://www.gateonai.com/tools/fabulous)** — AI behavior coaching and habit formation app `freemium` `score: 67/100`
-- **[Strava AI](https://www.gateonai.com/tools/strava-ai)** — AI fitness tracking and social platform for athletes. `freemium` `score: 67/100`
-- **[Fitbod AI](https://www.gateonai.com/tools/fitbod-ai)** — AI personal trainer that creates adaptive workout plans. `freemium` `score: 67/100`
-- **[MyFitnessPal AI](https://www.gateonai.com/tools/myfitnesspal-ai)** — AI calorie counting and nutrition tracking app. `freemium` `score: 67/100`
-- **[Noom AI](https://www.gateonai.com/tools/noom-ai)** — AI weight management with behavior coaching `freemium` `score: 63/100`
-- **[Hevy](https://www.gateonai.com/tools/hevy)** — AI-powered gym tracker for strength training and progression. `freemium` `score: 63/100`
-- **[Lifesum](https://www.gateonai.com/tools/lifesum)** — Personalized nutrition and habit tracking for holistic wellness. `freemium` `score: 63/100`
-- **[Future AI](https://www.gateonai.com/tools/future-ai)** — AI personal training with real human coaches. `paid` `score: 60/100`
+- **[Apple Health AI](https://www.gateonai.com/tools/apple-health-ai)** — AI health and fitness tracking `free` `score: 67/100`
+- **[MyFitnessPal AI](https://www.gateonai.com/tools/myfitnesspal-ai)** — AI calorie counting and nutrition tracking app. `freemium` `score: 62/100`
+- **[MoodTools](https://www.gateonai.com/tools/moodtools)** — Mood tracking and mental health `free` `score: 62/100`
+- **[Lifesum](https://www.gateonai.com/tools/lifesum)** — Personalized nutrition and habit tracking for holistic wellness. `freemium` `score: 62/100`
+- **[Fabulous](https://www.gateonai.com/tools/fabulous)** — AI behavior coaching and habit formation app `freemium` `score: 62/100`
+- **[Strava AI](https://www.gateonai.com/tools/strava-ai)** — AI fitness tracking and social platform for athletes. `freemium` `score: 62/100`
+- **[Fitbod AI](https://www.gateonai.com/tools/fitbod-ai)** — AI personal trainer that creates adaptive workout plans. `freemium` `score: 62/100`
+- **[Whisk](https://www.gateonai.com/tools/whisk)** — AI meal planning and recipe app `freemium` `score: 60/100`
 
 ## Logistics
 
-- **[Logiwa](https://www.gateonai.com/tools/logiwa)** — AI warehouse management system for e-commerce `freemium` `score: 67/100`
-- **[FourKites AI](https://www.gateonai.com/tools/fourkites-ai)** — AI real-time supply chain visibility platform `freemium` `score: 64/100`
-- **[Blue Yonder](https://www.gateonai.com/tools/blue-yonder)** — AI supply chain planning and optimization platform `paid` `score: 60/100`
-- **[o9 Solutions](https://www.gateonai.com/tools/o9-solutions)** — AI integrated business planning for enterprises `paid` `score: 60/100`
-- **[Emerge AI](https://www.gateonai.com/tools/emerge-ai)** — AI freight procurement and network optimization. `paid` `score: 60/100`
-- **[ShipBob](https://www.gateonai.com/tools/shipbob)** — AI-driven fulfillment for direct-to-consumer brands. `paid` `score: 59/100`
-- **[Transmetrics](https://www.gateonai.com/tools/transmetrics)** — AI demand forecasting for logistics and freight. `paid` `score: 58/100`
-- **[Project44 AI](https://www.gateonai.com/tools/project44-ai)** — AI advanced supply chain visibility platform `paid` `score: 58/100`
+- **[Logiwa](https://www.gateonai.com/tools/logiwa)** — AI warehouse management system for e-commerce `freemium` `score: 62/100`
+- **[FourKites AI](https://www.gateonai.com/tools/fourkites-ai)** — AI real-time supply chain visibility platform `freemium` `score: 62/100`
+- **[Shippo](https://www.gateonai.com/tools/shippo)** — AI shipping API platform `freemium` `score: 60/100`
+- **[Ordoro](https://www.gateonai.com/tools/ordoro)** — AI inventory and shipping platform `freemium` `score: 60/100`
+- **[EasyPost](https://www.gateonai.com/tools/easypost)** — AI shipping and tracking API `freemium` `score: 60/100`
+- **[FleetRabbit AI](https://www.gateonai.com/tools/fleetrabbit-ai)** — AI-powered digital DVIR, maintenance, and DOT compliance for trucking fleets `freemium` `score: 60/100`
+- **[ShipStation](https://www.gateonai.com/tools/shipstation)** — AI shipping management platform `freemium` `score: 60/100`
+- **[AfterShip](https://www.gateonai.com/tools/aftership)** — AI shipment tracking platform `freemium` `score: 56/100`
 
 ## Marketing
 
-- **[ActiveCampaign AI](https://www.gateonai.com/tools/activecampaign-ai)** — AI email automation and CRM platform `freemium` `score: 71/100`
-- **[Mention](https://www.gateonai.com/tools/mention)** — AI social listening and brand monitoring tool `freemium` `score: 67/100`
-- **[Hypotenuse AI](https://www.gateonai.com/tools/hypotenuse-ai)** — AI content writer for ecommerce product descriptions. `freemium` `score: 67/100`
-- **[Adzooma](https://www.gateonai.com/tools/adzooma)** — AI advertising management for Google and Facebook `freemium` `score: 67/100`
-- **[Influencity](https://www.gateonai.com/tools/influencity)** — AI influencer marketing platform for brands and agencies `freemium` `score: 67/100`
-- **[Amplitude Experiment](https://www.gateonai.com/tools/amplitude-experiment)** — AI feature flagging and experimentation platform `freemium` `score: 67/100`
-- **[FullStory](https://www.gateonai.com/tools/fullstory)** — AI digital experience intelligence platform `freemium` `score: 67/100`
-- **[Revealbot](https://www.gateonai.com/tools/revealbot)** — AI advertising automation for Facebook and Google ads `freemium` `score: 67/100`
+- **[Wrenda](https://www.gateonai.com/tools/wrenda)** — Control how AI sees your content with a reverse proxy for AI search, enriched markdown, pre-rendered HTML, and citation tracking. `free` `score: 67/100`
+- **[ActiveCampaign AI](https://www.gateonai.com/tools/activecampaign-ai)** — AI email automation and CRM platform `freemium` `score: 67/100`
+- **[Deepege](https://www.gateonai.com/tools/deepege)** — AI video marketing and multi-account publishing for Chinese enterprise teams. `free` `score: 67/100`
+- **[Kelriva](https://www.gateonai.com/tools/kelriva)** — See what leading LLMs say about your business in real time. `free` `score: 67/100`
+- **[Maverank](https://www.gateonai.com/tools/maverank)** — Free AI-readiness checker that scores your website for ChatGPT compatibility `free` `score: 67/100`
+- **[AWeber AI](https://www.gateonai.com/tools/aweber-ai)** — AI email marketing for entrepreneurs and SMBs `freemium` `score: 62/100`
+- **[HubSpot AI](https://www.gateonai.com/tools/hubspot-ai)** — AI features integrated into HubSpot's CRM. `freemium` `score: 62/100`
+- **[Blaze AI](https://www.gateonai.com/tools/blaze-ai)** — AI marketing platform for agencies and creators `freemium` `score: 62/100`
 
 ## Meeting & Transcription
 
-- **[Avoma](https://www.gateonai.com/tools/avoma)** — AI meeting intelligence for revenue teams `freemium` `score: 67/100`
-- **[Sembly AI](https://www.gateonai.com/tools/sembly-ai)** — AI team assistant for meeting notes `freemium` `score: 67/100`
-- **[Wudpecker](https://www.gateonai.com/tools/wudpecker)** — AI meeting notes without joining the meeting `freemium` `score: 67/100`
-- **[Fathom](https://www.gateonai.com/tools/fathom)** — AI-powered meeting recorder and transcriber for Zoom/Teams. `freemium` `score: 67/100`
-- **[Notta](https://www.gateonai.com/tools/notta)** — AI transcription supporting 58 languages `freemium` `score: 67/100`
-- **[Supernormal](https://www.gateonai.com/tools/supernormal)** — AI note-taker for Google Meet and Zoom `freemium` `score: 67/100`
-- **[tldv](https://www.gateonai.com/tools/tldv)** — AI meeting recorder with searchable transcripts `freemium` `score: 67/100`
-- **[Fellow](https://www.gateonai.com/tools/fellow)** — AI meeting management and team productivity tool `freemium` `score: 67/100`
+- **[Fathom](https://www.gateonai.com/tools/fathom)** — AI-powered meeting recorder and transcriber for Zoom/Teams. `freemium` `score: 62/100`
+- **[AWS Transcribe](https://www.gateonai.com/tools/aws-transcribe)** — AWS AI automatic speech recognition service `freemium` `score: 62/100`
+- **[Grain](https://www.gateonai.com/tools/grain)** — AI meeting recorder with shareable highlights `freemium` `score: 62/100`
+- **[Notta](https://www.gateonai.com/tools/notta)** — AI transcription supporting 58 languages `freemium` `score: 62/100`
+- **[Wudpecker](https://www.gateonai.com/tools/wudpecker)** — AI meeting notes without joining the meeting `freemium` `score: 62/100`
+- **[Leexi AI Pro](https://www.gateonai.com/tools/leexi-ai-pro)** — AI call intelligence for sales and CS teams `freemium` `score: 62/100`
+- **[IBM Watson STT](https://www.gateonai.com/tools/ibm-watson-stt)** — IBM Watson AI speech recognition service `freemium` `score: 62/100`
+- **[Fellow](https://www.gateonai.com/tools/fellow)** — AI meeting management and team productivity tool `freemium` `score: 62/100`
 
 ## No-Code AI
 
-- **[Workato AI](https://www.gateonai.com/tools/workato-ai)** — AI enterprise automation and integration platform `freemium` `score: 67/100`
-- **[Parabola](https://www.gateonai.com/tools/parabola)** — AI data transformation and workflow automation `freemium` `score: 67/100`
-- **[Tray.ai](https://www.gateonai.com/tools/trayai)** — AI automation platform for enterprise workflows `freemium` `score: 67/100`
-- **[Softr](https://www.gateonai.com/tools/softr)** — Build AI-powered client portals and internal tools `freemium` `score: 67/100`
-- **[Albato](https://www.gateonai.com/tools/albato)** — AI automation platform for marketing and sales teams `freemium` `score: 66/100`
-- **[Adalo](https://www.gateonai.com/tools/adalo)** — No-code app builder with AI components `freemium` `score: 66/100`
-- **[AppSheet](https://www.gateonai.com/tools/appsheet)** — Google AI-powered no-code app development `freemium` `score: 66/100`
-- **[Glide](https://www.gateonai.com/tools/glide)** — Build AI-powered apps from your data without coding `freemium` `score: 66/100`
+- **[Tooljet AI](https://www.gateonai.com/tools/tooljet-ai)** — Open-source AI low-code internal tool builder `free` `score: 68/100`
+- **[Caspian](https://www.gateonai.com/tools/caspian)** — Describe the tracker, dashboard or planner you need and your AI agent builds it on your computer `free` `score: 67/100`
+- **[Glide](https://www.gateonai.com/tools/glide)** — Build AI-powered apps from your data without coding `freemium` `score: 62/100`
+- **[DronaHQ AI](https://www.gateonai.com/tools/dronahq-ai)** — AI low-code platform for internal apps `freemium` `score: 62/100`
+- **[Pabbly AI](https://www.gateonai.com/tools/pabbly-ai)** — AI marketing automation and form builder `freemium` `score: 62/100`
+- **[Softr](https://www.gateonai.com/tools/softr)** — Build AI-powered client portals and internal tools `freemium` `score: 62/100`
+- **[AppSheet](https://www.gateonai.com/tools/appsheet)** — Google AI-powered no-code app development `freemium` `score: 62/100`
+- **[Genie by Salesforce](https://www.gateonai.com/tools/genie-by-salesforce)** — AI data cloud and automation for Salesforce users `freemium` `score: 62/100`
 
 ## Presentation AI
 
-- **[Slidesgo](https://www.gateonai.com/tools/slidesgo)** — Free AI presentation templates and slide designs `free` `score: 73/100`
-- **[Plus AI](https://www.gateonai.com/tools/plus-ai)** — AI presentation builder for Google Slides and PowerPoint `freemium` `score: 67/100`
-- **[Decktopus](https://www.gateonai.com/tools/decktopus)** — AI presentation builder with smart suggestions `freemium` `score: 67/100`
-- **[Slidebean](https://www.gateonai.com/tools/slidebean)** — AI pitch deck creation for startups `freemium` `score: 67/100`
-- **[Beautiful AI](https://www.gateonai.com/tools/beautiful-ai)** — AI presentation maker with smart slide design `freemium` `score: 67/100`
-- **[Storydoc](https://www.gateonai.com/tools/storydoc)** — AI interactive presentations for sales and marketing `freemium` `score: 67/100`
-- **[Haiku Deck](https://www.gateonai.com/tools/haiku-deck)** — AI presentation maker for visual storytelling `freemium` `score: 67/100`
-- **[Mentimeter](https://www.gateonai.com/tools/mentimeter)** — AI interactive presentation with live audience polling `freemium` `score: 67/100`
+- **[Slidesgo](https://www.gateonai.com/tools/slidesgo)** — Free AI presentation templates and slide designs `free` `score: 68/100`
+- **[Slides Carnival](https://www.gateonai.com/tools/slides-carnival)** — AI presentation templates `free` `score: 67/100`
+- **[Prezent AI](https://www.gateonai.com/tools/prezent-ai)** — AI presentation intelligence for enterprise teams `freemium` `score: 62/100`
+- **[Beautiful AI](https://www.gateonai.com/tools/beautiful-ai)** — AI presentation maker with smart slide design `freemium` `score: 62/100`
+- **[Storydoc](https://www.gateonai.com/tools/storydoc)** — AI interactive presentations for sales and marketing `freemium` `score: 62/100`
+- **[Pitch](https://www.gateonai.com/tools/pitch)** — AI collaborative presentation software `freemium` `score: 62/100`
+- **[Vevox](https://www.gateonai.com/tools/vevox)** — AI audience engagement platform for presentations `freemium` `score: 62/100`
+- **[Decktopus](https://www.gateonai.com/tools/decktopus)** — AI presentation builder with smart suggestions `freemium` `score: 62/100`
 
 ## Productivity
 
-- **[NotebookLM](https://www.gateonai.com/tools/notebooklm)** — Google's AI-powered research and note-taking assistant `free` `score: 73/100`
-- **[Logseq](https://www.gateonai.com/tools/logseq)** — Open-source AI knowledge management platform `free` `score: 68/100`
-- **[Rewind AI](https://www.gateonai.com/tools/rewind-ai)** — AI perfect memory for your Mac screen activity `freemium` `score: 67/100`
-- **[Granola](https://www.gateonai.com/tools/granola)** — Bot-free AI meeting notes — invisible, private, distraction-free `freemium` `score: 67/100`
-- **[Coda AI](https://www.gateonai.com/tools/coda-ai)** — AI docs combining documents and apps `freemium` `score: 67/100`
-- **[Gamma](https://www.gateonai.com/tools/gamma)** — Create presentations, websites, and docs with AI. `freemium` `score: 67/100`
-- **[Monday.com AI](https://www.gateonai.com/tools/mondaycom-ai)** — AI-powered work OS for teams `freemium` `score: 67/100`
-- **[Linear AI](https://www.gateonai.com/tools/linear-ai)** — AI issue tracking for software teams `freemium` `score: 67/100`
+- **[NotebookLM](https://www.gateonai.com/tools/notebooklm)** — Google's AI-powered research and note-taking assistant `free` `score: 70/100`
+- **[Mana](https://www.gateonai.com/tools/mana)** — AI-powered family organizer for shared calendars, lists, chores, and meal planning `free` `score: 67/100`
+- **[Echologue](https://www.gateonai.com/tools/echologue)** — Voice‑first private AI journal that tags, retrieves, and answers your questions about past entries `free` `score: 67/100`
+- **[Demo · Anjadhe](https://www.gateonai.com/tools/demo-anjadhe)** — Privacy-first AI assistant for macOS that works without accounts or server DB. `free` `score: 67/100`
+- **[Shortcuts](https://www.gateonai.com/tools/shortcuts)** — AI shortcuts automation for Apple `free` `score: 67/100`
+- **[PixFinder](https://www.gateonai.com/tools/pixfinder)** — Search local images by content, not filename. `freemium` `score: 67/100`
+- **[call4me](https://www.gateonai.com/tools/call4me)** — AI agent that handles phone calls for you, from cancellations to bookings, all from your terminal `free` `score: 67/100`
+- **[Alyph](https://www.gateonai.com/tools/alyph)** — Branch, edit, and explore LLM conversations like a multiverse. `free` `score: 67/100`
 
 ## Real Estate
 
-- **[Compass AI](https://www.gateonai.com/tools/compass-ai)** — AI real estate platform for agents and buyers `freemium` `score: 67/100`
-- **[Structurely](https://www.gateonai.com/tools/structurely)** — AI real estate assistant for lead nurturing `freemium` `score: 67/100`
-- **[Opendoor](https://www.gateonai.com/tools/opendoor)** — AI instant home buying and selling `freemium` `score: 67/100`
-- **[Zillow AI](https://www.gateonai.com/tools/zillow-ai)** — AI real estate search with Zestimate valuations `freemium` `score: 67/100`
-- **[Chime CRM](https://www.gateonai.com/tools/chime-crm)** — AI CRM and marketing platform for real estate agents `freemium` `score: 67/100`
-- **[Matterport Pro](https://www.gateonai.com/tools/matterport-pro)** — AI 3D digital twin for immersive property tours `freemium` `score: 64/100`
-- **[Epique AI](https://www.gateonai.com/tools/epique-ai)** — AI assistant platform built for realtors `freemium` `score: 63/100`
-- **[GetFloorPlan](https://www.gateonai.com/tools/getfloorplan)** — AI service to create 2D/3D floor plans and virtual tours. `freemium` `score: 63/100`
+- **[Structurely](https://www.gateonai.com/tools/structurely)** — AI real estate assistant for lead nurturing `freemium` `score: 62/100`
+- **[Compass AI](https://www.gateonai.com/tools/compass-ai)** — AI real estate platform for agents and buyers `freemium` `score: 62/100`
+- **[Chime CRM](https://www.gateonai.com/tools/chime-crm)** — AI CRM and marketing platform for real estate agents `freemium` `score: 62/100`
+- **[Zillow AI](https://www.gateonai.com/tools/zillow-ai)** — AI real estate search with Zestimate valuations `freemium` `score: 62/100`
+- **[Matterport Pro](https://www.gateonai.com/tools/matterport-pro)** — AI 3D digital twin for immersive property tours `freemium` `score: 62/100`
+- **[Opendoor](https://www.gateonai.com/tools/opendoor)** — AI instant home buying and selling `freemium` `score: 62/100`
+- **[Lofty](https://www.gateonai.com/tools/lofty)** — AI real estate CRM platform `freemium` `score: 60/100`
+- **[GetFloorPlan](https://www.gateonai.com/tools/getfloorplan)** — AI service to create 2D/3D floor plans and virtual tours. `freemium` `score: 57/100`
 
 ## Research AI
 
-- **[Semantic Scholar](https://www.gateonai.com/tools/semantic-scholar)** — AI-powered academic search engine by Allen Institute. `free` `score: 78/100`
-- **[Zotero AI](https://www.gateonai.com/tools/zotero-ai)** — Free AI reference manager for academic research `free` `score: 73/100`
-- **[Research Rabbit](https://www.gateonai.com/tools/research-rabbit)** — AI paper discovery and literature mapping tool `free` `score: 73/100`
-- **[OpenAlex](https://www.gateonai.com/tools/openalex)** — Free and open scholarly database with AI search `free` `score: 68/100`
-- **[ResearchGate AI](https://www.gateonai.com/tools/researchgate-ai)** — AI-powered research discovery on ResearchGate. `free` `score: 68/100`
-- **[Inciteful](https://www.gateonai.com/tools/inciteful)** — AI citation network for academic paper discovery `free` `score: 68/100`
-- **[Rayyan](https://www.gateonai.com/tools/rayyan)** — AI systematic review and literature management `freemium` `score: 67/100`
-- **[Dimensions AI](https://www.gateonai.com/tools/dimensions-ai)** — AI research intelligence and grant discovery `freemium` `score: 67/100`
+- **[Semantic Scholar](https://www.gateonai.com/tools/semantic-scholar)** — AI-powered academic search engine by Allen Institute. `free` `score: 75/100`
+- **[PaperDigest AI](https://www.gateonai.com/tools/paperdigest-ai)** — Free AI academic paper summarization `free` `score: 73/100`
+- **[Research Rabbit](https://www.gateonai.com/tools/research-rabbit)** — AI paper discovery and literature mapping tool `free` `score: 68/100`
+- **[Zotero AI](https://www.gateonai.com/tools/zotero-ai)** — Free AI reference manager for academic research `free` `score: 68/100`
+- **[ParkourNote](https://www.gateonai.com/tools/parkournote)** — Personal research workspace that auto‑searches arXiv, previews PDFs with citation hover, and lets you chat with AI about papers `free` `score: 67/100`
+- **[Precision Numerics](https://www.gateonai.com/tools/precision-numerics)** — 1-bit LLM that retains 85.9% of BF16 performance in just 247 MB `free` `score: 67/100`
+- **[Citefast](https://www.gateonai.com/tools/citefast)** — AI citation generator `free` `score: 67/100`
+- **[KnowNote](https://www.gateonai.com/tools/knownote)** — Local desktop workspace for querying and managing your own sources `free` `score: 67/100`
 
 ## Robotics
 
-- **[1X Robotics](https://www.gateonai.com/tools/1x-robotics)** — AI-powered humanoid robots for labor automation. `paid` `score: 62/100`
-- **[Boston Dynamics](https://www.gateonai.com/tools/boston-dynamics)** — AI robots for inspection and industrial automation `paid` `score: 60/100`
-- **[Pickle Robot](https://www.gateonai.com/tools/pickle-robot)** — AI robot arms for unloading trucks in distribution centers. `paid` `score: 59/100`
-- **[Agility Robotics](https://www.gateonai.com/tools/agility-robotics)** — AI bipedal robots designed for human-centric workspaces. `paid` `score: 59/100`
-- **[Symbotic](https://www.gateonai.com/tools/symbotic)** — AI-powered warehouse robotics and supply chain automation. `paid` `score: 59/100`
-- **[Figure AI](https://www.gateonai.com/tools/figure-ai)** — AI humanoid robot for commercial applications `paid` `score: 59/100`
-- **[Sanctuary AI](https://www.gateonai.com/tools/sanctuary-ai)** — Creating human-like intelligence in general-purpose robots. `paid` `score: 58/100`
-- **[Covariant](https://www.gateonai.com/tools/covariant)** — AI brain for industrial robots to handle new tasks. `paid` `score: 56/100`
+- **[1X Robotics](https://www.gateonai.com/tools/1x-robotics)** — AI-powered humanoid robots for labor automation. `paid` `score: 57/100`
+- **[Figure AI](https://www.gateonai.com/tools/figure-ai)** — AI humanoid robot for commercial applications `paid` `score: 54/100`
+- **[Pickle Robot](https://www.gateonai.com/tools/pickle-robot)** — AI robot arms for unloading trucks in distribution centers. `paid` `score: 54/100`
+- **[Sanctuary AI](https://www.gateonai.com/tools/sanctuary-ai)** — Creating human-like intelligence in general-purpose robots. `paid` `score: 54/100`
+- **[Berkshire Grey](https://www.gateonai.com/tools/berkshire-grey)** — AI-powered robotic automation for fulfillment and logistics. `paid` `score: 54/100`
+- **[Symbotic](https://www.gateonai.com/tools/symbotic)** — AI-powered warehouse robotics and supply chain automation. `paid` `score: 54/100`
+- **[Agility Robotics](https://www.gateonai.com/tools/agility-robotics)** — AI bipedal robots designed for human-centric workspaces. `paid` `score: 54/100`
+- **[Boston Dynamics](https://www.gateonai.com/tools/boston-dynamics)** — AI robots for inspection and industrial automation `paid` `score: 54/100`
 
 ## Sales AI
 
-- **[Lemlist](https://www.gateonai.com/tools/lemlist)** — AI multichannel outreach with personalization `freemium` `score: 67/100`
-- **[Sybill](https://www.gateonai.com/tools/sybill)** — AI for sales call analysis and coaching `freemium` `score: 67/100`
-- **[Regie AI](https://www.gateonai.com/tools/regie-ai)** — AI content automation for sales outreach `freemium` `score: 66/100`
-- **[Attention AI](https://www.gateonai.com/tools/attention-ai)** — AI sales intelligence for call coaching `freemium` `score: 64/100`
-- **[Momentum](https://www.gateonai.com/tools/momentum)** — AI-powered deal intelligence and CRM automation `freemium` `score: 63/100`
-- **[Warmly](https://www.gateonai.com/tools/warmly)** — AI signal-based revenue orchestration platform `freemium` `score: 63/100`
-- **[Instantly AI](https://www.gateonai.com/tools/instantly-ai)** — AI cold email outreach and deliverability platform `freemium` `score: 63/100`
-- **[Lavender](https://www.gateonai.com/tools/lavender)** — AI email coaching for better sales performance `freemium` `score: 62/100`
+- **[Clay Pro](https://www.gateonai.com/tools/clay-pro)** — AI data enrichment for sales prospecting `freemium` `score: 62/100`
+- **[Momentum](https://www.gateonai.com/tools/momentum)** — AI-powered deal intelligence and CRM automation `freemium` `score: 62/100`
+- **[Pipedrive AI](https://www.gateonai.com/tools/pipedrive-ai)** — AI sales pipeline management for SMBs `freemium` `score: 62/100`
+- **[Regie AI](https://www.gateonai.com/tools/regie-ai)** — AI content automation for sales outreach `freemium` `score: 62/100`
+- **[Apollo IO](https://www.gateonai.com/tools/apollo-io)** — AI sales intelligence with 275M contacts `freemium` `score: 62/100`
+- **[Copper AI](https://www.gateonai.com/tools/copper-ai)** — AI CRM built for Google Workspace users `freemium` `score: 62/100`
+- **[Sybill](https://www.gateonai.com/tools/sybill)** — AI for sales call analysis and coaching `freemium` `score: 62/100`
+- **[Warmly](https://www.gateonai.com/tools/warmly)** — AI signal-based revenue orchestration platform `freemium` `score: 62/100`
 
 ## Science
 
-- **[PubMed](https://www.gateonai.com/tools/pubmed)** — Free AI-enhanced biomedical literature database `free` `score: 82/100`
-- **[AlphaFold](https://www.gateonai.com/tools/alphafold)** — DeepMind AI for protein structure prediction `free` `score: 68/100`
-- **[Benchling](https://www.gateonai.com/tools/benchling)** — AI-powered R&D platform for biotech and pharma `freemium` `score: 67/100`
-- **[Labster Virtual](https://www.gateonai.com/tools/labster-virtual)** — AI virtual science lab simulations `freemium` `score: 67/100`
+- **[PubMed](https://www.gateonai.com/tools/pubmed)** — Free AI-enhanced biomedical literature database `free` `score: 79/100`
 - **[IBM Research AI](https://www.gateonai.com/tools/ibm-research-ai)** — IBM AI tools for scientific discovery `freemium` `score: 67/100`
-- **[Metaculus](https://www.gateonai.com/tools/metaculus)** — AI-assisted crowdsourced forecasting for global trends. `freemium` `score: 63/100`
-- **[Atomwise](https://www.gateonai.com/tools/atomwise)** — AI for structure-based drug discovery (atom-by-atom). `paid` `score: 60/100`
-- **[Recursion](https://www.gateonai.com/tools/recursion)** — AI for drug discovery and biological image analysis. `paid` `score: 60/100`
+- **[AlphaFold](https://www.gateonai.com/tools/alphafold)** — DeepMind AI for protein structure prediction `free` `score: 63/100`
+- **[Benchling](https://www.gateonai.com/tools/benchling)** — AI-powered R&D platform for biotech and pharma `freemium` `score: 62/100`
+- **[Labster Virtual](https://www.gateonai.com/tools/labster-virtual)** — AI virtual science lab simulations `freemium` `score: 62/100`
+- **[Chemix](https://www.gateonai.com/tools/chemix)** — AI chemistry lab diagram tool `free` `score: 62/100`
+- **[CDD Vault](https://www.gateonai.com/tools/cdd-vault)** — AI drug discovery database `freemium` `score: 60/100`
+- **[LabArchives](https://www.gateonai.com/tools/labarchives)** — AI electronic lab notebook `freemium` `score: 60/100`
 
 ## Search
 
-- **[Perplexity](https://www.gateonai.com/tools/perplexity)** — AI-powered search and answer engine. `freemium` `score: 85/100`
-- **[iAsk AI](https://www.gateonai.com/tools/iask-ai)** — Free AI search engine with accurate and unbiased answers. `freemium` `score: 73/100`
-- **[AI Tools Hunt](https://www.gateonai.com/tools/ai-tools-hunt)** — AI tool discovery and comparison platform `free` `score: 73/100`
-- **[Toolify AI](https://www.gateonai.com/tools/toolify-ai)** — AI tools discovery with revenue tracking `free` `score: 70/100`
-- **[Tap4AI](https://www.gateonai.com/tools/tap4ai)** — Free AI tools discovery and search engine `free` `score: 70/100`
-- **[Bing AI](https://www.gateonai.com/tools/bing-ai)** — Microsoft AI-powered search with Copilot `free` `score: 68/100`
+- **[Perplexity](https://www.gateonai.com/tools/perplexity)** — AI-powered search and answer engine. `freemium` `score: 87/100`
+- **[AI Tools Hunt](https://www.gateonai.com/tools/ai-tools-hunt)** — AI tool discovery and comparison platform `free` `score: 71/100`
+- **[Startpage AI](https://www.gateonai.com/tools/startpage-ai)** — AI private search engine `free` `score: 71/100`
+- **[iAsk AI](https://www.gateonai.com/tools/iask-ai)** — Free AI search engine with accurate and unbiased answers. `freemium` `score: 68/100`
+- **[Tap4AI](https://www.gateonai.com/tools/tap4ai)** — Free AI tools discovery and search engine `free` `score: 68/100`
+- **[Toolify AI](https://www.gateonai.com/tools/toolify-ai)** — AI tools discovery with revenue tracking `free` `score: 68/100`
 - **[FutureTools AI](https://www.gateonai.com/tools/futuretools-ai)** — Curated AI tools newsletter and database `free` `score: 68/100`
-- **[You.com](https://www.gateonai.com/tools/youcom)** — AI-powered search engine with personalized results. `freemium` `score: 64/100`
+- **[Andi](https://www.gateonai.com/tools/andi)** — Conversational AI search `free` `score: 67/100`
 
 ## Social Media
 
-- **[Predis AI](https://www.gateonai.com/tools/predis-ai)** — AI social media content generator with competitor analysis. `freemium` `score: 67/100`
-- **[Pallyy](https://www.gateonai.com/tools/pallyy)** — AI visual planner for Instagram content creators `freemium` `score: 67/100`
-- **[Missinglettr](https://www.gateonai.com/tools/missinglettr)** — AI social media drip campaigns from blog content `freemium` `score: 67/100`
-- **[RecurPost](https://www.gateonai.com/tools/recurpost)** — AI social media scheduler with content recycling `freemium` `score: 67/100`
-- **[Flick](https://www.gateonai.com/tools/flick)** — AI social media assistant for hashtags and captions. `freemium` `score: 67/100`
-- **[Buffer AI](https://www.gateonai.com/tools/buffer-ai)** — AI social media scheduling and analytics tool. `freemium` `score: 67/100`
-- **[Ocoya](https://www.gateonai.com/tools/ocoya)** — AI platform for social media scheduling and content creation. `freemium` `score: 67/100`
-- **[Juphy AI](https://www.gateonai.com/tools/juphy-ai)** — AI social media customer service management `freemium` `score: 66/100`
+- **[Publer Pro](https://www.gateonai.com/tools/publer-pro)** — AI social media scheduling and management `freemium` `score: 67/100`
+- **[RecurPost](https://www.gateonai.com/tools/recurpost)** — AI social media scheduler with content recycling `freemium` `score: 62/100`
+- **[Predis AI](https://www.gateonai.com/tools/predis-ai)** — AI social media content generator with competitor analysis. `freemium` `score: 62/100`
+- **[Planable AI](https://www.gateonai.com/tools/planable-ai)** — AI social media collaboration for agencies `freemium` `score: 62/100`
+- **[Tailwind AI](https://www.gateonai.com/tools/tailwind-ai)** — AI Pinterest and Instagram growth tool `freemium` `score: 62/100`
+- **[Juphy AI](https://www.gateonai.com/tools/juphy-ai)** — AI social media customer service management `freemium` `score: 62/100`
+- **[Vista Social](https://www.gateonai.com/tools/vista-social)** — AI social media management for agencies and brands `freemium` `score: 62/100`
+- **[Agorapulse AI](https://www.gateonai.com/tools/agorapulse-ai)** — AI social media management for agencies `freemium` `score: 62/100`
 
 ## Translation
 
-- **[Google Translate AI](https://www.gateonai.com/tools/google-translate-ai)** — Google's neural machine translation for 100+ languages. `free` `score: 81/100`
-- **[ModernMT](https://www.gateonai.com/tools/modernmt)** — Self-learning AI translation engine that improves with use. `freemium` `score: 67/100`
+- **[Google Translate AI](https://www.gateonai.com/tools/google-translate-ai)** — Google's neural machine translation for 100+ languages. `free` `score: 83/100`
+- **[Glot.io](https://www.gateonai.com/tools/glot-io)** — AI code and text translation `free` `score: 67/100`
 - **[OmegaT AI](https://www.gateonai.com/tools/omegat-ai)** — Free open-source AI-assisted translation tool `free` `score: 67/100`
-- **[Phrase](https://www.gateonai.com/tools/phrase)** — AI translation management and localization platform `freemium` `score: 67/100`
-- **[Microsoft Translator](https://www.gateonai.com/tools/microsoft-translator)** — AI translation for 100+ languages by Microsoft. `freemium` `score: 67/100`
-- **[Transifex](https://www.gateonai.com/tools/transifex)** — AI translation and localization for digital content `freemium` `score: 66/100`
-- **[DeepL](https://www.gateonai.com/tools/deepl)** — High-accuracy AI translation for text and documents. `freemium` `score: 64/100`
-- **[Memoq AI](https://www.gateonai.com/tools/memoq-ai)** — AI translation tool for language professionals `freemium` `score: 63/100`
+- **[Yandex Translate](https://www.gateonai.com/tools/yandex-translate)** — AI translation by Yandex `free` `score: 67/100`
+- **[Papago](https://www.gateonai.com/tools/papago)** — AI translation by Naver `free` `score: 67/100`
+- **[Lokalise AI](https://www.gateonai.com/tools/lokalise-ai)** — AI localization platform for apps, games, and software. `freemium` `score: 62/100`
+- **[Weglot](https://www.gateonai.com/tools/weglot)** — AI website translation with one-click setup `freemium` `score: 62/100`
+- **[Amazon Translate](https://www.gateonai.com/tools/amazon-translate)** — Neural machine translation service by Amazon AWS. `freemium` `score: 62/100`
 
 ## Video Creation
 
 - **[Luma](https://www.gateonai.com/tools/luma-ai)** — High-quality 3D asset generation from video. `freemium` `score: 75/100`
-- **[Pika Labs](https://www.gateonai.com/tools/pika-labs)** — Leading text-to-video animation platform. `freemium` `score: 74/100`
-- **[Clipchamp](https://www.gateonai.com/tools/clipchamp)** — Free AI video editor by Microsoft `free` `score: 73/100`
-- **[iMovie AI](https://www.gateonai.com/tools/imovie-ai)** — Free AI video editor for Apple devices `free` `score: 68/100`
-- **[HeyGen](https://www.gateonai.com/tools/heygen)** — AI video generator with realistic avatars and voice. `freemium` `score: 68/100`
-- **[Fliki](https://www.gateonai.com/tools/fliki)** — Turn text into videos with AI voices and visuals `freemium` `score: 67/100`
-- **[Luma Dream Machine](https://www.gateonai.com/tools/luma-dream-machine)** — High-quality AI video generation by Luma AI `freemium` `score: 67/100`
-- **[Animaker](https://www.gateonai.com/tools/animaker)** — AI animated video maker for businesses `freemium` `score: 67/100`
+- **[Pika Labs](https://www.gateonai.com/tools/pika-labs)** — Leading text-to-video animation platform. `freemium` `score: 73/100`
+- **[iMovie AI](https://www.gateonai.com/tools/imovie-ai)** — Free AI video editor for Apple devices `free` `score: 73/100`
+- **[VN Video Editor](https://www.gateonai.com/tools/vn-video-editor)** — AI video editor app `free` `score: 71/100`
+- **[HeyGen](https://www.gateonai.com/tools/heygen)** — AI video generator with realistic avatars and voice. `freemium` `score: 70/100`
+- **[Clipchamp](https://www.gateonai.com/tools/clipchamp)** — Free AI video editor by Microsoft `free` `score: 68/100`
+- **[DaVinci Resolve AI](https://www.gateonai.com/tools/davinci-resolve-ai)** — Free professional video editing with AI tools `free` `score: 68/100`
+- **[CapCut Pro](https://www.gateonai.com/tools/capcut-pro)** — AI video editor for 200 million creators `freemium` `score: 67/100`
 
 ## Website Builder AI
 
 - **[10Web](https://www.gateonai.com/tools/10web)** — AI WordPress website builder and hosting `freemium` `score: 75/100`
-- **[Typedream](https://www.gateonai.com/tools/typedream)** — AI website builder for stunning no-code sites `freemium` `score: 67/100`
-- **[Squarespace AI](https://www.gateonai.com/tools/squarespace-ai)** — AI website builder with premium design templates `freemium` `score: 67/100`
-- **[Webflow AI](https://www.gateonai.com/tools/webflow-ai)** — No-code website builder with AI design capabilities `freemium` `score: 67/100`
-- **[Durable](https://www.gateonai.com/tools/durable)** — AI website builder that creates a site in 30 seconds `freemium` `score: 67/100`
-- **[Relume](https://www.gateonai.com/tools/relume)** — AI website wireframe and sitemap builder `freemium` `score: 67/100`
-- **[Hocoos](https://www.gateonai.com/tools/hocoos)** — AI website builder for small businesses `freemium` `score: 66/100`
-- **[Jimdo](https://www.gateonai.com/tools/jimdo)** — AI website builder for small business owners `freemium` `score: 66/100`
+- **[BeezUP](https://www.gateonai.com/tools/beezup)** — Create an e-commerce website with AI-powered website builder `freemium` `score: 71/100`
+- **[Mobirise](https://www.gateonai.com/tools/mobirise)** — Build responsive websites with AI-powered website builder `free` `score: 67/100`
+- **[Yola](https://www.gateonai.com/tools/yola)** — Build, design, and launch websites `freemium` `score: 65/100`
+- **[Webstarts](https://www.gateonai.com/tools/webstarts)** — Create a website in minutes `freemium` `score: 62/100`
+- **[Sitey](https://www.gateonai.com/tools/sitey)** — Create a website in minutes `free` `score: 62/100`
+- **[Hocoos](https://www.gateonai.com/tools/hocoos)** — AI website builder for small businesses `freemium` `score: 62/100`
+- **[Zyro AI](https://www.gateonai.com/tools/zyro-ai)** — AI website builder with e-commerce capabilities `freemium` `score: 62/100`
 
 ## Writing Assistant
 
-- **[Wordtune](https://www.gateonai.com/tools/wordtune)** — AI-powered writing companion for rewriting sentences. `freemium` `score: 73/100`
-- **[Hyperwrite AI](https://www.gateonai.com/tools/hyperwrite-ai)** — Personal AI assistant with writing and research capabilities `freemium` `score: 70/100`
-- **[Instatext](https://www.gateonai.com/tools/instatext)** — AI text rewriter for natural English writing `freemium` `score: 67/100`
-- **[Neuroflash](https://www.gateonai.com/tools/neuroflash)** — AI content creation for German and English markets `freemium` `score: 67/100`
-- **[Katteb](https://www.gateonai.com/tools/katteb)** — AI fact-checked content writer with citations `freemium` `score: 67/100`
-- **[Writeseed](https://www.gateonai.com/tools/writeseed)** — AI blog post generator with SEO focus `freemium` `score: 67/100`
-- **[GravityWrite](https://www.gateonai.com/tools/gravitywrite)** — AI content creator with 250 plus templates `freemium` `score: 67/100`
-- **[LanguageTool](https://www.gateonai.com/tools/languagetool)** — Multilingual AI grammar checker in 25 languages `freemium` `score: 67/100`
+- **[Compose AI](https://www.gateonai.com/tools/compose-ai)** — AI autocomplete and text generation for emails `free` `score: 68/100`
+- **[Substack AI](https://www.gateonai.com/tools/substack-ai)** — AI newsletter writing and publishing tools `free` `score: 68/100`
+- **[Calmly Writer](https://www.gateonai.com/tools/calmly-writer)** — Distraction-free AI writing environment `free` `score: 68/100`
+- **[Wordtune](https://www.gateonai.com/tools/wordtune)** — AI-powered writing companion for rewriting sentences. `freemium` `score: 68/100`
+- **[Hyperwrite AI](https://www.gateonai.com/tools/hyperwrite-ai)** — Personal AI assistant with writing and research capabilities `freemium` `score: 67/100`
+- **[Rewrite Tool](https://www.gateonai.com/tools/rewrite-tool)** — AI article rewriting tool `free` `score: 67/100`
+- **[Undetectable AI](https://www.gateonai.com/tools/undetectable-ai)** — AI content humanizer for authentic writing `freemium` `score: 62/100`
+- **[RankIQ AI](https://www.gateonai.com/tools/rankiq-ai)** — AI SEO content optimizer for bloggers `freemium` `score: 62/100`
 
 ---
 
